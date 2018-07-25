@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>eInstruções</name>
+    <events>
+        <event-block sid="598143514174627">
+            <conditions>
+                <condition id="-2" name="On start of layout" sid="462829112890031" type="System" />
+            </conditions>
+            <actions>
+                <action behavior="Fade" id="1" name="Start fade" sid="867893399056118" type="Fade" />
+            </actions>
+        </event-block>
+        <event-block sid="973263446233237">
+            <conditions>
+                <condition id="0" name="On key pressed" sid="215691448926662" type="Keyboard">
+                    <param id="0" name="Key">27</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="4" name="Set animation" sid="145527266848718" type="BFechar">
+                    <param id="0" name="Animation">&quot;Clicado&quot;</param>
+                    <param id="1" name="From">1</param>
+                </action>
+                <action id="-16" name="Wait" sid="213064864157082" type="System">
+                    <param id="0" name="Seconds">0.5</param>
+                </action>
+                <action id="0" name="Play" sid="236712745611173" type="Audio">
+                    <param id="0" name="Audio file">Clique</param>
+                    <param id="2" name="Loop">0</param>
+                    <param id="3" name="Volume">3</param>
+                    <param id="1" name="Tag (optional)">&quot;&quot;</param>
+                </action>
+                <action id="-2" name="Go to layout" sid="641043532126924" type="System">
+                    <param id="0" name="Layout">Tela Menu</param>
+                </action>
+            </actions>
+        </event-block>
+    </events>
+</c2eventsheet>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>eTerceiraFase</name>
+    <events>
+        <include>eTodasAsFases</include>
+        <event-block sid="426090144852926">
+            <conditions>
+                <condition id="0" name="On collision with another object" sid="625426585979343" type="Personagens">
+                    <param id="0" name="Object">BarraPerderPontos</param>
+                </condition>
+                <condition behavior="Platform" id="4" name="Is falling" sid="922556861286830" type="Personagens" />
+            </conditions>
+            <actions>
+                <action id="3" name="Set progress" sid="566479112537772" type="BarraTempo">
+                    <param id="0" name="Value">BarraTempo.Progress-1</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="453236341942890">
+            <conditions>
+                <condition id="-14" name="Compare variable" sid="400163911559556" type="System">
+                    <param id="0" name="Variable">Pontuação</param>
+                    <param id="1" name="Comparison">0</param>
+                    <param id="2" name="Value">15</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-15" name="Set visible" sid="720257598541461" type="FeedbackFase">
+                    <param id="0" name="Visibility">1</param>
+                </action>
+                <action id="-2" name="Go to layout" sid="219066581515547" type="System">
+                    <param id="0" name="Layout">TelaQuartaFase</param>
+                </action>
+            </actions>
+        </event-block>
+    </events>
+</c2eventsheet>

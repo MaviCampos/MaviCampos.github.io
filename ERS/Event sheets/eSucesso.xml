@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>eSucesso</name>
+    <events>
+        <event-block sid="914449772606416">
+            <conditions>
+                <condition id="-2" name="On start of layout" sid="213335188322375" type="System" />
+            </conditions>
+            <actions>
+                <action id="33" name="Stop all" sid="893255706396852" type="Audio" />
+                <action id="0" name="Play" sid="356031107772882" type="Audio">
+                    <param id="0" name="Audio file">Sucesso</param>
+                    <param id="2" name="Loop">0</param>
+                    <param id="3" name="Volume">0</param>
+                    <param id="1" name="Tag (optional)">&quot;&quot;</param>
+                </action>
+            </actions>
+            <sub-events>
+                <event-block sid="171813777585473">
+                    <conditions>
+                        <condition id="2" name="Is playing" sid="157265304996399" type="AbelhaVoando">
+                            <param id="0" name="Animation">&quot;Abelha&quot;</param>
+                        </condition>
+                    </conditions>
+                    <actions />
+                </event-block>
+                <event-block sid="809943344497609">
+                    <conditions>
+                        <condition id="2" name="Is playing" sid="364470062256188" type="Kika">
+                            <param id="0" name="Animation">&quot;Borboleta&quot;</param>
+                        </condition>
+                    </conditions>
+                    <actions />
+                </event-block>
+            </sub-events>
+        </event-block>
+        <event-block sid="367615187537666">
+            <conditions>
+                <condition id="0" name="On key pressed" sid="907940919093535" type="Keyboard">
+                    <param id="0" name="Key">27</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-2" name="Go to layout" sid="253875323402925" type="System">
+                    <param id="0" name="Layout">Tela Menu</param>
+                </action>
+            </actions>
+        </event-block>
+    </events>
+</c2eventsheet>

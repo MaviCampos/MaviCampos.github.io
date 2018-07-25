@@ -1,0 +1,1518 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2project>
+    <name>EcologicalRelationShips</name>
+    <description></description>
+    <version>1.0.0.0</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website>http://</author-website>
+    <app-id>com.mycompany.myapp</app-id>
+    <unique-id>2ruimtshca9re</unique-id>
+    <saved-with-version>25200</saved-with-version>
+    <used-plugins>
+        <plugin author="Scirra" id="Audio" version="1">Audio</plugin>
+        <plugin author="Scirra" id="Keyboard" version="1">Keyboard</plugin>
+        <plugin author="Scirra" id="Sprite" version="1">Sprite</plugin>
+        <plugin author="Scirra" id="Text" version="1">Text</plugin>
+        <plugin author="Scirra" id="TiledBg" version="1">Tiled Background</plugin>
+        <plugin author="Scirra" id="progressbar" version="1">Progress bar</plugin>
+    </used-plugins>
+    <used-behaviors>
+        <behavior author="Scirra" id="Bullet" version="1">Bullet</behavior>
+        <behavior author="Scirra" id="Fade" version="1">Fade</behavior>
+        <behavior author="Scirra" id="Flash" version="1">Flash</behavior>
+        <behavior author="Scirra" id="Pin" version="1">Pin</behavior>
+        <behavior author="Scirra" id="Platform" version="1">Platform</behavior>
+        <behavior author="Scirra" id="Sin" version="1">Sine</behavior>
+        <behavior author="Scirra" id="bound" version="1">Bound to layout</behavior>
+        <behavior author="Scirra" id="jumpthru" version="1">Jump-thru</behavior>
+        <behavior author="Scirra" id="scrollto" version="1">Scroll To</behavior>
+        <behavior author="Scirra" id="solid" version="1">Solid</behavior>
+    </used-behaviors>
+    <used-effects />
+    <configurations>
+        <configuration exporter-descname="HTML5" exporter-id="html5" name="HTML5" />
+    </configurations>
+    <window-size>
+        <width>854</width>
+        <height>480</height>
+    </window-size>
+    <pixel-rounding>0</pixel-rounding>
+    <preview-effects>1</preview-effects>
+    <first-layout>Tela Splash</first-layout>
+    <use-loader-layout>0</use-loader-layout>
+    <configuration-settings>
+        <prop name="Clear background">Yes</prop>
+        <prop name="Downscaling">Medium quality</prop>
+        <prop name="Enable WebGL">On</prop>
+        <prop name="Fullscreen in browser">Letterbox scale</prop>
+        <prop name="Fullscreen scaling">High quality</prop>
+        <prop name="Loader style">Construct 2 splash</prop>
+        <prop name="Orientations">Any</prop>
+        <prop name="Pause on unfocus">No</prop>
+        <prop name="Physics engine">Box2D asm.js</prop>
+        <prop name="Preload sounds">Yes</prop>
+        <prop name="Preview browser">NW.js</prop>
+        <prop name="Sampling">Linear</prop>
+        <prop name="Use high-DPI display">Yes</prop>
+    </configuration-settings>
+    <object-folder>
+        <object-folder name="Imagens">
+            <object-type name="FundoTelas" sid="511985657215580">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="558424813640265" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.501333" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\8357beaa0e12bf7.jpg" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="BarraPerderPontos" sid="308771291078585">
+                <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Solid" sid="309424346023981">
+                        <behavior id="solid" />
+                    </behavior-type>
+                </behaviors>
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="618387770812997" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="BarrinhaFantasma" sid="366041640479025">
+                <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable comment="Essa barra será ou não destruida." name="BarraDestruida" sid="627480439740091" type="number" />
+                </instance-variables>
+                <behaviors>
+                    <behavior-type name="Solid" sid="752243567618947">
+                        <behavior id="solid" />
+                    </behavior-type>
+                </behaviors>
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="707537033085311" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="BarrinhaMovimentação" sid="832607866404993">
+                <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Sine" sid="544114596348586">
+                        <behavior id="Sin" />
+                    </behavior-type>
+                    <behavior-type name="Jumpthru" sid="519933356792379">
+                        <behavior id="jumpthru" />
+                    </behavior-type>
+                </behaviors>
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="541621195187292" speed="5">
+                        <frame duration="1" hotspotX="0.203333" hotspotY="0.14" original-source="F:\PJD 3V\OFICINA DE CRIAÇÃO\2° JOGO - ECOLOGICAL RELATIONSHIPS\IMAGENS\Plataforma.png">
+                            <collision-poly>
+                                <point x="0.00554335" y="0.712063" />
+                                <point x="0.500283" y="0.73639" />
+                                <point x="0.686554" y="0.743181" />
+                                <point x="0.704873" y="0.838567" />
+                                <point x="0.500283" y="0.859599" />
+                                <point x="0.0209632" y="0.891117" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="BuracoÁgua" sid="948324455886576">
+                <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable comment="Através da barra o personagem pode ou não cair." name="BarraQueda" sid="693875562186179" type="number" />
+                </instance-variables>
+                <animation-folder>
+                    <animation framecount="2" loop="1" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="243233399678649" speed="3">
+                        <frame duration="1" hotspotX="0.471429" hotspotY="1" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\freetileset\png\Tiles\17.png">
+                            <collision-poly>
+                                <point x="0" y="1" />
+                                <point x="0" y="0" />
+                                <point x="1" y="0" />
+                                <point x="1" y="1" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.528571" hotspotY="1">
+                            <collision-poly>
+                                <point x="0" y="1" />
+                                <point x="0" y="0" />
+                                <point x="1" y="0" />
+                                <point x="1" y="1" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="Chão" sid="792400111188731">
+                <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Solid" sid="100150581932616">
+                        <behavior id="solid" />
+                    </behavior-type>
+                </behaviors>
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="712977477151988" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.967949" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\depositphotos_76028053-stock-illustration-different-materials-and-textures-for.png">
+                            <collision-poly>
+                                <point x="0.166667" y="0.333333" />
+                                <point x="0.5" y="0.304167" />
+                                <point x="0.851042" y="0.297917" />
+                                <point x="0.998958" y="0.5" />
+                                <point x="0.858333" y="0.716667" />
+                                <point x="0.1375" y="0.725" />
+                                <point x="0" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="ColisorInimigos" sid="508168844982471">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="776353912859060" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="ImagemGameOver" sid="767468988913998">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="685387503801390" speed="5">
+                        <frame duration="1" hotspotX="0.501597" hotspotY="0.5" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\DDD.png">
+                            <collision-poly>
+                                <point x="0.0670926" y="0.0777778" />
+                                <point x="0.498403" y="0.0111111" />
+                                <point x="0.830671" y="0.196296" />
+                                <point x="0.734824" y="0.5" />
+                                <point x="0.619808" y="0.559259" />
+                                <point x="0.498403" y="0.985185" />
+                                <point x="0.0734824" y="0.914815" />
+                                <point x="0.172524" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="ImagemHistória" sid="276423028768061">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="541008960681385" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="ImagemInstruções" sid="576264637884900">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="354299993710315" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.53" original-source="C:\Users\vitor\OneDrive\Pictures\Screenshots\Captura de Tela (125).png" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="ImagemMenu" sid="290030623638682">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="766678747892188" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\700_FO21201491_f608c8aa13b967b2e27c276dcd032e7b.jpg" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="Plataforma" sid="722715973868499">
+                <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Solid" sid="668049508775674">
+                        <behavior id="solid" />
+                    </behavior-type>
+                </behaviors>
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="386533777486801" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="F:\PJD 3V\OFICINA DE CRIAÇÃO\2° JOGO - ECOLOGICAL RELATIONSHIPS\IMAGENS\galho com follhas em Decomposição.png">
+                            <collision-poly>
+                                <point x="0.142129" y="0.723343" />
+                                <point x="0.5" y="0.737752" />
+                                <point x="0.700816" y="0.745833" />
+                                <point x="0.712366" y="0.842571" />
+                                <point x="0.5" y="0.861671" />
+                                <point x="0.0209513" y="0.893372" />
+                                <point x="0.0214286" y="0.710559" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="NomeEmpresa" sid="209664479113370">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="4" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="261779014265923" speed="8">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="ImagemCréditos" sid="422537270566295">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="405639942859292" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.500935" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\funçoes.png">
+                            <collision-poly>
+                                <point x="0.0830769" y="0.100935" />
+                                <point x="0.901538" y="0.119626" />
+                                <point x="0.956923" y="0.947664" />
+                                <point x="0.5" y="0.994393" />
+                                <point x="0.0969231" y="0.882243" />
+                                <point x="0.00923077" y="0.499065" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="ImagemSucesso" sid="634152377102050">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="572155404833804" speed="5">
+                        <frame duration="1" hotspotX="0.501767" hotspotY="0.5" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\cvtgn.png">
+                            <collision-poly>
+                                <point x="0.0777385" y="0.123596" />
+                                <point x="0.498233" y="0.162921" />
+                                <point x="0.862191" y="0.219101" />
+                                <point x="0.968198" y="0.5" />
+                                <point x="0.809187" y="0.696629" />
+                                <point x="0.498233" y="0.820225" />
+                                <point x="0.137809" y="0.780899" />
+                                <point x="0.0742049" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="Vida" sid="535255566154621">
+                <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable comment="Vidas que o personagem perdeu." name="VidasPerdidas" sid="217878215474715" type="number" />
+                </instance-variables>
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="818783812319887" speed="5">
+                        <frame duration="1" hotspotX="0.509091" hotspotY="0.447917" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\coração.png">
+                            <collision-poly>
+                                <point x="0" y="0.0938986" />
+                                <point x="0" y="0.194059" />
+                                <point x="0.767267" y="0.0920265" />
+                                <point x="0.881077" y="0.499844" />
+                                <point x="0.321583" y="0.733239" />
+                                <point x="0" y="0.986604" />
+                                <point x="0" y="0.733864" />
+                                <point x="0" y="0.499844" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="IPersonagem" sid="317364305931108">
+                <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Pin" sid="348899037565343">
+                        <behavior id="Pin" />
+                    </behavior-type>
+                    <behavior-type name="Flash" sid="359614405131696">
+                        <behavior id="Flash" />
+                    </behavior-type>
+                </behaviors>
+                <animation-folder>
+                    <animation framecount="1" loop="1" name="ParadoA" pingpong="0" repeatcount="1" repeatto="0" sid="813946546297797" speed="5">
+                        <frame duration="1" hotspotX="0.571429" hotspotY="0.971831" original-source="E:\Art do Personagem\Personagem Parado.png">
+                            <collision-poly>
+                                <point x="0.294643" y="0.232394" />
+                                <point x="0.5" y="0.0422535" />
+                                <point x="0.776785" y="0.176057" />
+                                <point x="0.839286" y="0.5" />
+                                <point x="0.991071" y="0.992958" />
+                                <point x="0.00892857" y="0.992958" />
+                                <point x="0.303571" y="0.760564" />
+                                <point x="0.160714" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="2" loop="1" name="CorrendoA" pingpong="0" repeatcount="1" repeatto="0" sid="204802475279162" speed="5">
+                        <frame duration="1" hotspotX="0.580357" hotspotY="0.978723" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\Art do Personagem\Personagem correndo2.png">
+                            <collision-poly>
+                                <point x="0.275974" y="0.237332" />
+                                <point x="0.5" y="0.0358721" />
+                                <point x="0.801948" y="0.179772" />
+                                <point x="0.87013" y="0.503546" />
+                                <point x="0.782467" y="0.81293" />
+                                <point x="0.5" y="0.89927" />
+                                <point x="0.285714" y="0.762565" />
+                                <point x="0.12013" y="0.503546" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.565574" hotspotY="0.971831" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\Art do Personagem\Personagem correndo 3.png">
+                            <collision-poly>
+                                <point x="0.295082" y="0.253521" />
+                                <point x="0.5" y="0.0422535" />
+                                <point x="0.770492" y="0.197183" />
+                                <point x="0.819672" y="0.5" />
+                                <point x="0.754098" y="0.788732" />
+                                <point x="0.5" y="0.887324" />
+                                <point x="0.311475" y="0.732394" />
+                                <point x="0.311475" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="2" loop="0" name="VoandoA" pingpong="0" repeatcount="1" repeatto="0" sid="855823246456064" speed="10">
+                        <frame duration="1" hotspotX="0.572727" hotspotY="0.985714" original-source="E:\Art do Personagem\Personagem voando1.png" />
+                        <frame duration="1" hotspotX="0.570248" hotspotY="0.985714" original-source="E:\Art do Personagem\Personagem voando2.png" />
+                    </animation>
+                    <animation framecount="3" loop="1" name="ParadoL" pingpong="0" repeatcount="1" repeatto="0" sid="939854156057868" speed="1">
+                        <frame duration="1" hotspotX="0.457143" hotspotY="0.990909" original-source="C:\Users\Maciell Araujjo\Downloads\largata Logo Marca.png">
+                            <collision-poly>
+                                <point x="0.53653" y="0.626667" />
+                                <point x="0.5" y="0.613333" />
+                                <point x="0.977169" y="0.0266667" />
+                                <point x="0.890411" y="0.501333" />
+                                <point x="0.901011" y="0.990787" />
+                                <point x="0.45" y="1" />
+                                <point x="0" y="1" />
+                                <point x="0.627854" y="0.501333" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.457143" hotspotY="0.990909">
+                            <collision-poly>
+                                <point x="0.53653" y="0.626667" />
+                                <point x="0.5" y="0.613333" />
+                                <point x="0.977169" y="0.0266667" />
+                                <point x="0.890411" y="0.501333" />
+                                <point x="0.901011" y="0.990787" />
+                                <point x="0.45" y="1" />
+                                <point x="0" y="1" />
+                                <point x="0.627854" y="0.501333" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.457143" hotspotY="0.990909" original-source="F:\PJD 3V\OFICINA DE CRIAÇÃO\2° JOGO - ECOLOGICAL RELATIONSHIPS\IMAGENS\largata piscando.png">
+                            <collision-poly>
+                                <point x="0.53653" y="0.626667" />
+                                <point x="0.5" y="0.613333" />
+                                <point x="0.977169" y="0.0266667" />
+                                <point x="0.890411" y="0.501333" />
+                                <point x="0.901011" y="0.990787" />
+                                <point x="0.45" y="1" />
+                                <point x="0" y="1" />
+                                <point x="0.627854" y="0.501333" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="2" loop="1" name="CorrendoL" pingpong="0" repeatcount="1" repeatto="0" sid="248350467034873" speed="5">
+                        <frame duration="1" hotspotX="0.464286" hotspotY="1" original-source="F:\PJD 3V\OFICINA DE CRIAÇÃO\2° JOGO - ECOLOGICAL RELATIONSHIPS\IMAGENS\largata correndo frame 1.png" />
+                        <frame duration="1" hotspotX="0.464286" hotspotY="1" original-source="F:\PJD 3V\OFICINA DE CRIAÇÃO\2° JOGO - ECOLOGICAL RELATIONSHIPS\IMAGENS\largata correndo frame 2.png" />
+                    </animation>
+                    <animation framecount="1" loop="0" name="PulandoL" pingpong="0" repeatcount="1" repeatto="0" sid="210548362135639" speed="5">
+                        <frame duration="1" hotspotX="0.25974" hotspotY="1" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\Larg.png">
+                            <collision-poly>
+                                <point x="0.0374532" y="0.0177305" />
+                                <point x="0.498127" y="0.0815603" />
+                                <point x="0.681648" y="0.150709" />
+                                <point x="0.925094" y="0.5" />
+                                <point x="0.576779" y="0.799645" />
+                                <point x="0.498127" y="0.856383" />
+                                <point x="0.127341" y="0.939716" />
+                                <point x="0.292135" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="iBarraPerderPontos" sid="255615960279774">
+                <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Pin" sid="585108733332521">
+                        <behavior id="Pin" />
+                    </behavior-type>
+                </behaviors>
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="646341880603862" speed="5">
+                        <frame duration="1" hotspotX="0.500434" hotspotY="0.501493" original-source="F:\PJD 3V\OFICINA DE CRIAÇÃO\2° JOGO - ECOLOGICAL RELATIONSHIPS\IMAGENS\Galho com espinhos.png">
+                            <collision-poly>
+                                <point x="0.0173461" y="0.755224" />
+                                <point x="0.575889" y="0.776119" />
+                                <point x="0.582827" y="0.895522" />
+                                <point x="0.0277537" y="0.904478" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="iBarrinhaFantasma" sid="934891092782988">
+                <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="PosiçãoFantasma" sid="518568151597280" type="number" />
+                </instance-variables>
+                <behaviors>
+                    <behavior-type name="Pin" sid="332452787090006">
+                        <behavior id="Pin" />
+                    </behavior-type>
+                </behaviors>
+                <animation-folder>
+                    <animation framecount="2" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="628570626065226" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="F:\PJD 3V\OFICINA DE CRIAÇÃO\2° JOGO - ECOLOGICAL RELATIONSHIPS\IMAGENS\Galho Quebrado com espinho.png">
+                            <collision-poly>
+                                <point x="0.502754" y="0.422222" />
+                                <point x="0.609127" y="0.491945" />
+                                <point x="0.712086" y="0.70207" />
+                                <point x="0.598108" y="0.626043" />
+                                <point x="0.334751" y="0.415155" />
+                                <point x="0.00907029" y="0.713339" />
+                                <point x="0" y="0.556669" />
+                                <point x="0.318127" y="0.222222" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5">
+                            <collision-poly>
+                                <point x="0.14221" y="0.722063" />
+                                <point x="0.500283" y="0.73639" />
+                                <point x="0.879887" y="0.613181" />
+                                <point x="0.964873" y="0.498567" />
+                                <point x="0.935977" y="0.670487" />
+                                <point x="0.500283" y="0.859599" />
+                                <point x="0.0209632" y="0.891117" />
+                                <point x="0.823796" y="0.498567" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="BgPrimeiraFase" sid="223506690341601">
+                <plugin id="TiledBg" />
+                <texture original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\Verde.png" />
+            </object-type>
+            <object-type name="BgQuartaFase" sid="398547027541582">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="839773848523582" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\forest_sidescroll.png" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="BgSegundaFase" sid="575249447243371">
+                <plugin id="TiledBg" />
+                <texture original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\basic_2d_forest_background_by_sonnysketch-d9eujn7.png" />
+            </object-type>
+            <object-type name="BgTerceiraFase" sid="651574186219754">
+                <plugin id="TiledBg" />
+                <texture original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\folha Queimada.png" />
+            </object-type>
+            <object-type name="Kika" sid="299899019443118">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="3" loop="1" name="Borboleta" pingpong="0" repeatcount="1" repeatto="0" sid="415732855386379" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\b01.png">
+                            <collision-poly>
+                                <point x="0.286667" y="0.365957" />
+                                <point x="0.5" y="0.2" />
+                                <point x="0.716667" y="0.361702" />
+                                <point x="0.668333" y="0.576596" />
+                                <point x="0.5" y="0.789362" />
+                                <point x="0.336667" y="0.570213" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\b02.png">
+                            <collision-poly>
+                                <point x="0.286667" y="0.365957" />
+                                <point x="0.5" y="0.2" />
+                                <point x="0.716667" y="0.361702" />
+                                <point x="0.668333" y="0.576596" />
+                                <point x="0.5" y="0.789362" />
+                                <point x="0.336667" y="0.570213" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\b03.png">
+                            <collision-poly>
+                                <point x="0.286667" y="0.365957" />
+                                <point x="0.5" y="0.2" />
+                                <point x="0.716667" y="0.361702" />
+                                <point x="0.668333" y="0.576596" />
+                                <point x="0.5" y="0.789362" />
+                                <point x="0.336667" y="0.570213" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="FotoMLCréditos" sid="574569851621914">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="975685297869872" speed="5">
+                        <frame duration="1" hotspotX="0.571742" hotspotY="0.498834" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\Maciel ]Ara.png">
+                            <collision-poly>
+                                <point x="0.102957" y="0.0664336" />
+                                <point x="0.570646" y="0.0011655" />
+                                <point x="0.96276" y="0.148019" />
+                                <point x="0.998905" y="0.497669" />
+                                <point x="0.963855" y="0.84965" />
+                                <point x="0.570646" y="0.998834" />
+                                <point x="0.100767" y="0.932401" />
+                                <point x="0.00109529" y="0.497669" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="FotoVCCréditos" sid="741047371476489">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="552760707124076" speed="5">
+                        <frame duration="1" hotspotX="0.572997" hotspotY="0.498856" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\vitoria Campos.png">
+                            <collision-poly>
+                                <point x="0" y="0" />
+                                <point x="0.570066" y="0" />
+                                <point x="1" y="0" />
+                                <point x="1" y="0.498252" />
+                                <point x="1" y="1" />
+                                <point x="0.570066" y="1" />
+                                <point x="0" y="1" />
+                                <point x="0" y="0.498252" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="FunçoesVC" sid="694289887869203">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="191408251793350" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.500935" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\funçoesVC.png">
+                            <collision-poly>
+                                <point x="0.0830769" y="0.100935" />
+                                <point x="0.901538" y="0.119626" />
+                                <point x="0.956923" y="0.947664" />
+                                <point x="0.5" y="0.994393" />
+                                <point x="0.0969231" y="0.882243" />
+                                <point x="0.00923077" y="0.499065" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="GameOverAbelha" sid="141118125628063">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="4" loop="1" name="AbelhaFantasma" pingpong="0" repeatcount="1" repeatto="0" sid="566806181748515" speed="4">
+                        <frame duration="1" hotspotX="0.537037" hotspotY="0.706294">
+                            <collision-poly>
+                                <point x="0" y="0" />
+                                <point x="0.333333" y="0" />
+                                <point x="0.546296" y="0" />
+                                <point x="0.75" y="0.818182" />
+                                <point x="0.333333" y="0.804196" />
+                                <point x="0.268519" y="0.552448" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.537736" hotspotY="0.706294" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\ABELHAGO.png">
+                            <collision-poly>
+                                <point x="0.264151" y="0.195804" />
+                                <point x="0.679245" y="0.125874" />
+                                <point x="0.896226" y="0.342657" />
+                                <point x="1" y="1" />
+                                <point x="0.679245" y="1" />
+                                <point x="0.613208" y="1" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.54717" hotspotY="0.710345">
+                            <collision-poly>
+                                <point x="0.103774" y="0" />
+                                <point x="0.518868" y="0" />
+                                <point x="0.735849" y="0" />
+                                <point x="0.943396" y="1" />
+                                <point x="0.518868" y="1" />
+                                <point x="0.45283" y="1" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.581633" hotspotY="0.708333">
+                            <collision-poly>
+                                <point x="0.0204082" y="0" />
+                                <point x="0.469388" y="0" />
+                                <point x="0.704082" y="0" />
+                                <point x="0.928571" y="1" />
+                                <point x="0.469388" y="1" />
+                                <point x="0.397959" y="1" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="GameOverLargata" sid="432808931909272">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="3" loop="1" name="LargataFantasma" pingpong="0" repeatcount="1" repeatto="0" sid="223807006313647" speed="3">
+                        <frame duration="1" hotspotX="0.384966" hotspotY="0.776596" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\animação game over.png" />
+                        <frame duration="1" hotspotX="0.393939" hotspotY="0.78626">
+                            <collision-poly>
+                                <point x="1" y="0.687118" />
+                                <point x="1" y="0.67249" />
+                                <point x="1" y="0.0288743" />
+                                <point x="1" y="0.549618" />
+                                <point x="1" y="0.927011" />
+                                <point x="1" y="1" />
+                                <point x="0" y="1" />
+                                <point x="1" y="0.549618" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.396752" hotspotY="0.788413">
+                            <collision-poly>
+                                <point x="0.0304819" y="0.655006" />
+                                <point x="0" y="0.640526" />
+                                <point x="1" y="0.00339444" />
+                                <point x="1" y="0.518892" />
+                                <point x="1" y="0.892482" />
+                                <point x="0" y="1" />
+                                <point x="0" y="0.99674" />
+                                <point x="0.477916" y="0.518892" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="ScoreImagem" sid="788013323292677">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="918880566184237" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.500935" original-source="F:\Retângulo de madeira.png">
+                            <collision-poly>
+                                <point x="0.323077" y="0.392523" />
+                                <point x="0.68" y="0.388785" />
+                                <point x="0.932308" y="0.499065" />
+                                <point x="0.732308" y="0.674766" />
+                                <point x="0.5" y="0.682243" />
+                                <point x="0.266154" y="0.676636" />
+                                <point x="0.0584615" y="0.499065" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="Pausa" sid="760044581782545">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Normal" pingpong="0" repeatcount="1" repeatto="0" sid="641297919361712" speed="5">
+                        <frame duration="1" hotspotX="0.519481" hotspotY="1.01747" original-source="F:\PAUSE.png">
+                            <collision-poly>
+                                <point x="0.151515" y="0.152838" />
+                                <point x="0.519481" y="0.00436681" />
+                                <point x="0.857143" y="0.183406" />
+                                <point x="0.887446" y="1" />
+                                <point x="0.519481" y="1" />
+                                <point x="0.17316" y="1" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="Clicado" pingpong="0" repeatcount="1" repeatto="0" sid="976093486887963" speed="5">
+                        <frame duration="1" hotspotX="0.480519" hotspotY="1.06926" original-source="F:\PAUSE.png">
+                            <collision-poly>
+                                <point x="0.0905235" y="0" />
+                                <point x="0.481128" y="0" />
+                                <point x="0.839565" y="0" />
+                                <point x="0.871732" y="1" />
+                                <point x="0.481128" y="1" />
+                                <point x="0.1135" y="1" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+        </object-folder>
+        <object-folder name="Botões">
+            <object-type name="BCréditos" sid="595236513275426">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Normal" pingpong="0" repeatcount="1" repeatto="0" sid="272172150387147" speed="5">
+                        <frame duration="1" hotspotX="0.482085" hotspotY="0.477778">
+                            <collision-poly>
+                                <point x="0" y="0.180406" />
+                                <point x="0" y="0.10151" />
+                                <point x="0.540656" y="0.234648" />
+                                <point x="0.654921" y="0.500921" />
+                                <point x="0.618835" y="0.831298" />
+                                <point x="0" y="0.944711" />
+                                <point x="0" y="0.846092" />
+                                <point x="0" y="0.500921" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="Clicado" pingpong="0" repeatcount="1" repeatto="0" sid="913432451751913" speed="5">
+                        <frame duration="1" hotspotX="0.491857" hotspotY="0.483333" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\Botão Credits.png">
+                            <collision-poly>
+                                <point x="0" y="0.135962" />
+                                <point x="0" y="0.057066" />
+                                <point x="1" y="0.190203" />
+                                <point x="1" y="0.456477" />
+                                <point x="1" y="0.786854" />
+                                <point x="0" y="0.900266" />
+                                <point x="0" y="0.801647" />
+                                <point x="0" y="0.456477" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="BFechar" sid="290505208127996">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Normal" pingpong="0" repeatcount="1" repeatto="0" sid="457035115581685" speed="5">
+                        <frame duration="1" hotspotX="0.491379" hotspotY="0.480519" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\X.png">
+                            <collision-poly>
+                                <point x="0.135261" y="0.549626" />
+                                <point x="0.525862" y="0" />
+                                <point x="0.911581" y="0.566806" />
+                                <point x="1" y="1" />
+                                <point x="0.911581" y="1" />
+                                <point x="0.525862" y="1" />
+                                <point x="0.203617" y="1" />
+                                <point x="0" y="1" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="Clicado" pingpong="0" repeatcount="1" repeatto="0" sid="934152275966365" speed="5">
+                        <frame duration="1" hotspotX="0.491379" hotspotY="0.480519">
+                            <collision-poly>
+                                <point x="0.0878474" y="0" />
+                                <point x="0.478448" y="0" />
+                                <point x="0.864167" y="0" />
+                                <point x="1" y="1" />
+                                <point x="0.864167" y="1" />
+                                <point x="0.478448" y="1" />
+                                <point x="0.156203" y="1" />
+                                <point x="0" y="1" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="BInstruções" sid="828545226691203">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Normal" pingpong="0" repeatcount="1" repeatto="0" sid="512154129688871" speed="5">
+                        <frame duration="1" hotspotX="0.252174" hotspotY="0.47619" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\Art Botão\botão menu.png">
+                            <collision-poly>
+                                <point x="0.149731" y="0.277995" />
+                                <point x="0.502174" y="0.004329" />
+                                <point x="0.850212" y="0.286288" />
+                                <point x="0.986784" y="1" />
+                                <point x="0.850212" y="1" />
+                                <point x="0.502174" y="1" />
+                                <point x="0.207003" y="1" />
+                                <point x="0.00875337" y="1" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="Clicado" pingpong="0" repeatcount="1" repeatto="0" sid="105325680263683" speed="5">
+                        <frame duration="1" hotspotX="0.256522" hotspotY="0.471861" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\Art Botão\botão menu.png">
+                            <collision-poly>
+                                <point x="0.145383" y="0" />
+                                <point x="0.497826" y="0" />
+                                <point x="0.845864" y="0" />
+                                <point x="0.982436" y="0" />
+                                <point x="0.845864" y="0.718041" />
+                                <point x="0.497826" y="0.792676" />
+                                <point x="0.202655" y="0.618526" />
+                                <point x="0.00440554" y="0" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="BMenu" sid="138064515071281">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Normal" pingpong="0" repeatcount="1" repeatto="0" sid="329438130082440" speed="5">
+                        <frame duration="1" hotspotX="0.519481" hotspotY="0.4329" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\home.png">
+                            <collision-poly>
+                                <point x="0.131518" y="0.229176" />
+                                <point x="0.52381" y="0" />
+                                <point x="0.911198" y="0.237695" />
+                                <point x="1" y="0.995671" />
+                                <point x="0.916101" y="0.995671" />
+                                <point x="0.52381" y="0.995671" />
+                                <point x="0.195265" y="0.995671" />
+                                <point x="0" y="0.995671" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="Clicado" pingpong="0" repeatcount="1" repeatto="0" sid="658837882907468" speed="5">
+                        <frame duration="1" hotspotX="0.519481" hotspotY="0.4329">
+                            <collision-poly>
+                                <point x="0.0882277" y="0" />
+                                <point x="0.480519" y="0" />
+                                <point x="0.867908" y="0" />
+                                <point x="1" y="0" />
+                                <point x="0.872811" y="0.770824" />
+                                <point x="0.480519" y="0.838974" />
+                                <point x="0.151975" y="0.660078" />
+                                <point x="0" y="0" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="BNewGame" sid="582342003286822">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Normal" pingpong="0" repeatcount="1" repeatto="0" sid="888036692469027" speed="5">
+                        <frame duration="1" hotspotX="0.482085" hotspotY="0.505556" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\New Games.png">
+                            <collision-poly>
+                                <point x="0.0291706" y="0" />
+                                <point x="0.499502" y="0" />
+                                <point x="0.954768" y="0" />
+                                <point x="0.989917" y="1" />
+                                <point x="0.968159" y="1" />
+                                <point x="0.499502" y="1" />
+                                <point x="0.0308444" y="1" />
+                                <point x="0" y="1" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="Clicado" pingpong="0" repeatcount="1" repeatto="0" sid="973423330795911" speed="5">
+                        <frame duration="1" hotspotX="0.482085" hotspotY="0.505556">
+                            <collision-poly>
+                                <point x="0.0291706" y="0" />
+                                <point x="0.499502" y="0" />
+                                <point x="0.954768" y="0" />
+                                <point x="0.989917" y="1" />
+                                <point x="0.968159" y="1" />
+                                <point x="0.499502" y="1" />
+                                <point x="0.0308444" y="1" />
+                                <point x="0" y="1" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="BPoder" sid="896929265247212">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="PLagarta" pingpong="0" repeatcount="1" repeatto="0" sid="451106257315190" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="E:\Art Botão\pote de folhas tipo 2.png">
+                            <collision-poly>
+                                <point x="0.106742" y="0.0940594" />
+                                <point x="0.5" y="0" />
+                                <point x="0.88764" y="0.0990099" />
+                                <point x="1" y="0.5" />
+                                <point x="0.853933" y="0.871287" />
+                                <point x="0.5" y="1" />
+                                <point x="0.134831" y="0.881188" />
+                                <point x="0" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="PAbelha" pingpong="0" repeatcount="1" repeatto="0" sid="164714573013677" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="E:\Art Botão\pote de mel.png">
+                            <collision-poly>
+                                <point x="0.106742" y="0.0940594" />
+                                <point x="0.5" y="0" />
+                                <point x="0.88764" y="0.0990099" />
+                                <point x="1" y="0.5" />
+                                <point x="0.853933" y="0.871287" />
+                                <point x="0.5" y="1" />
+                                <point x="0.134831" y="0.881188" />
+                                <point x="0" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+        </object-folder>
+        <object-folder name="Outros">
+            <object-type name="Audio" sid="796345348166971">
+                <plugin id="Audio" />
+            </object-type>
+            <object-type name="Fade" sid="636473606001881">
+                <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Fade" sid="686133888041119">
+                        <behavior id="Fade" />
+                    </behavior-type>
+                </behaviors>
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="521446282958170" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="Keyboard" sid="963087772641155">
+                <plugin id="Keyboard" />
+            </object-type>
+            <object-type name="Pontuação" sid="215560591386510">
+                <plugin id="Text" />
+            </object-type>
+            <object-type name="FeedbackFase" sid="266466927701279">
+                <plugin id="Text" />
+            </object-type>
+            <object-type name="BarraTempo" sid="265974673484901">
+                <plugin id="progressbar" />
+            </object-type>
+            <object-type name="Music" sid="427984694045743">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="On" pingpong="0" repeatcount="1" repeatto="0" sid="688671779356098" speed="5">
+                        <frame duration="1" hotspotX="0.486957" hotspotY="0.982684">
+                            <collision-poly>
+                                <point x="0" y="0.155844" />
+                                <point x="0.852174" y="0.151515" />
+                                <point x="0.982609" y="0.502164" />
+                                <point x="0.843478" y="0.848485" />
+                                <point x="0" y="0.861472" />
+                                <point x="0" y="0.502164" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="Off" pingpong="0" repeatcount="1" repeatto="0" sid="700256338728043" speed="5">
+                        <frame duration="1" hotspotX="0.486957" hotspotY="0.982684">
+                            <collision-poly>
+                                <point x="0.156522" y="0.147186" />
+                                <point x="1" y="0.142857" />
+                                <point x="1" y="0.493506" />
+                                <point x="1" y="0.839827" />
+                                <point x="0.147826" y="0.852814" />
+                                <point x="0.00434783" y="0.493506" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="Parafuso" sid="452104832085857">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="679441447783765" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\parafuso.png">
+                            <collision-poly>
+                                <point x="0.147059" y="0.15625" />
+                                <point x="0.5" y="0" />
+                                <point x="0.852941" y="0.15625" />
+                                <point x="0.970588" y="0.5" />
+                                <point x="0.852941" y="0.84375" />
+                                <point x="0.5" y="1" />
+                                <point x="0.147059" y="0.84375" />
+                                <point x="0" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="NomeJogo" sid="793571462758468">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="108635951503222" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\Logo do Jogo.png">
+                            <collision-poly>
+                                <point x="0.141997" y="0.0934315" />
+                                <point x="0.5" y="0.143828" />
+                                <point x="0.791738" y="0.137033" />
+                                <point x="0.999139" y="0.5" />
+                                <point x="0.814114" y="0.87769" />
+                                <point x="0.5" y="0.535108" />
+                                <point x="0.222892" y="0.853341" />
+                                <point x="0.0542169" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="Terra1" sid="861008406233520">
+                <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Solid" sid="829003555526115">
+                        <behavior id="solid" />
+                    </behavior-type>
+                </behaviors>
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="126046667239672" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\freetileset\png\Tiles\2.png">
+                            <collision-poly>
+                                <point x="0.152778" y="0.141026" />
+                                <point x="0.5" y="0.173077" />
+                                <point x="0.8125" y="0.173077" />
+                                <point x="0.930556" y="0.5" />
+                                <point x="0.930556" y="0.935897" />
+                                <point x="0.5" y="0.961538" />
+                                <point x="0.0763889" y="0.929487" />
+                                <point x="0.0763889" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="Terra2" sid="523701907691554">
+                <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Solid" sid="911774000063290">
+                        <behavior id="solid" />
+                    </behavior-type>
+                </behaviors>
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="809483275113192" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.507813" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\freetileset\png\Tiles\3.png">
+                            <collision-poly>
+                                <point x="0" y="0" />
+                                <point x="0.5" y="0" />
+                                <point x="0.976563" y="0.0322581" />
+                                <point x="0.90625" y="0.494624" />
+                                <point x="0.695313" y="0.580645" />
+                                <point x="0.5" y="0.806452" />
+                                <point x="0" y="1" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+        </object-folder>
+        <object-folder name="Animações">
+            <object-type name="BarraCarregamento" sid="490480835152984">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="2" loop="0" name="Carregando" pingpong="0" repeatcount="1" repeatto="0" sid="310120406698070" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="Moeda" sid="483494864299943">
+                <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable comment="Se moeda = 1 é da lagarta.Senão, é da abelha." name="MoedaDoPersonagem" sid="756104288442717" type="number" />
+                </instance-variables>
+                <animation-folder>
+                    <animation framecount="2" loop="1" name="MAbelha" pingpong="0" repeatcount="1" repeatto="0" sid="350281810216690" speed="5">
+                        <frame duration="1" hotspotX="0.495822" hotspotY="0.986264" original-source="F:\PJD 3V\OFICINA DE CRIAÇÃO\2° JOGO - ECOLOGICAL RELATIONSHIPS\IMAGENS\moeda flor.png">
+                            <collision-poly>
+                                <point x="0.150418" y="0.148352" />
+                                <point x="0.501393" y="0.00274725" />
+                                <point x="0.852368" y="0.148352" />
+                                <point x="0.997214" y="0.5" />
+                                <point x="0.852368" y="0.851648" />
+                                <point x="0.501393" y="0.997253" />
+                                <point x="0.150418" y="0.851648" />
+                                <point x="0.00278552" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.494737" hotspotY="0.986842">
+                            <collision-poly>
+                                <point x="0.150418" y="0.148352" />
+                                <point x="0.501393" y="0.00274725" />
+                                <point x="0.852368" y="0.148352" />
+                                <point x="0.997214" y="0.5" />
+                                <point x="0.852368" y="0.851648" />
+                                <point x="0.501393" y="0.997253" />
+                                <point x="0.150418" y="0.851648" />
+                                <point x="0.00278552" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="2" loop="1" name="MLagarta" pingpong="0" repeatcount="1" repeatto="0" sid="527370994320845" speed="5">
+                        <frame duration="1" hotspotX="0.497207" hotspotY="0.986188" original-source="F:\PJD 3V\OFICINA DE CRIAÇÃO\2° JOGO - ECOLOGICAL RELATIONSHIPS\IMAGENS\moeda folha.png">
+                            <collision-poly>
+                                <point x="0.148045" y="0.146409" />
+                                <point x="0.5" y="0" />
+                                <point x="0.851955" y="0.146409" />
+                                <point x="0.997207" y="0.5" />
+                                <point x="0.851955" y="0.853591" />
+                                <point x="0.5" y="1" />
+                                <point x="0.148045" y="0.853591" />
+                                <point x="0" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.497368" hotspotY="0.986842">
+                            <collision-poly>
+                                <point x="0.148045" y="0.146409" />
+                                <point x="0.5" y="0" />
+                                <point x="0.851955" y="0.146409" />
+                                <point x="0.997207" y="0.5" />
+                                <point x="0.851955" y="0.853591" />
+                                <point x="0.5" y="1" />
+                                <point x="0.148045" y="0.853591" />
+                                <point x="0" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="Munição" sid="901525635669434">
+                <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Bullet" sid="390870128929663">
+                        <behavior id="Bullet" />
+                    </behavior-type>
+                </behaviors>
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="MLagarta" pingpong="0" repeatcount="1" repeatto="0" sid="577663935669858" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    </animation>
+                    <animation framecount="1" loop="0" name="MAbelha" pingpong="0" repeatcount="1" repeatto="0" sid="384765199667754" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="Inimigos" sid="763815697332052">
+                <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable comment="Inimigo ficará andando." name="Inimigo" sid="678880128419408" type="string" />
+                    <instance-variable comment="Número respectivo ao inimigo escolhido." name="InimigoEscolhido" sid="592769747395359" type="number" />
+                </instance-variables>
+                <behaviors>
+                    <behavior-type name="Platform" sid="555586986127618">
+                        <behavior id="Platform" />
+                    </behavior-type>
+                </behaviors>
+                <animation-folder>
+                    <animation framecount="6" loop="1" name="Pássaro" pingpong="0" repeatcount="1" repeatto="0" sid="261270223233367" speed="5">
+                        <frame duration="1" hotspotX="0.448802" hotspotY="0.992063" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\wejkgekj.png">
+                            <collision-poly>
+                                <point x="0.895424" y="1" />
+                                <point x="0.383442" y="1" />
+                                <point x="0.0566449" y="1" />
+                                <point x="0" y="0.210916" />
+                                <point x="0.109477" y="0.105458" />
+                                <point x="0.218954" y="0" />
+                                <point x="0.376906" y="0.0676013" />
+                                <point x="0.681917" y="0.0144139" />
+                                <point x="1" y="0.0405915" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.447826" hotspotY="0.992042">
+                            <collision-poly>
+                                <point x="0.985942" y="0.994695" />
+                                <point x="0.383442" y="1" />
+                                <point x="0.0566449" y="1" />
+                                <point x="0" y="0.210916" />
+                                <point x="0.109477" y="0.105458" />
+                                <point x="0.218954" y="0" />
+                                <point x="0.376906" y="0.0676013" />
+                                <point x="0.703505" y="0.066524" />
+                                <point x="0.995643" y="0.543237" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.447826" hotspotY="0.992042">
+                            <collision-poly>
+                                <point x="0.99029" y="0.98939" />
+                                <point x="0.383442" y="1" />
+                                <point x="0.0566449" y="1" />
+                                <point x="0" y="0.210916" />
+                                <point x="0.109477" y="0.105458" />
+                                <point x="0.218954" y="0" />
+                                <point x="0.376906" y="0.0676013" />
+                                <point x="0.612201" y="0.368911" />
+                                <point x="0.995643" y="0.543237" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.447826" hotspotY="0.992042">
+                            <collision-poly>
+                                <point x="1" y="1" />
+                                <point x="0.383442" y="1" />
+                                <point x="0.0566449" y="1" />
+                                <point x="0" y="0.210916" />
+                                <point x="0.109477" y="0.105458" />
+                                <point x="0.218954" y="0" />
+                                <point x="0.376906" y="0.0676013" />
+                                <point x="0.612201" y="0.368911" />
+                                <point x="0.995643" y="0.543237" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.449339" hotspotY="0.990536">
+                            <collision-poly>
+                                <point x="0.986784" y="1" />
+                                <point x="0.383442" y="1" />
+                                <point x="0.0566449" y="1" />
+                                <point x="0" y="0.210916" />
+                                <point x="0.109477" y="0.105458" />
+                                <point x="0.218954" y="0" />
+                                <point x="0.376906" y="0.0676013" />
+                                <point x="0.612201" y="0.368911" />
+                                <point x="0.995643" y="0.543237" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.449468" hotspotY="0.992228">
+                            <collision-poly>
+                                <point x="1" y="1" />
+                                <point x="0.383442" y="1" />
+                                <point x="0.0566449" y="1" />
+                                <point x="0" y="0.210916" />
+                                <point x="0.109477" y="0.105458" />
+                                <point x="0.335976" y="0.279793" />
+                                <point x="0.860949" y="0.17641" />
+                                <point x="0.920711" y="0.353367" />
+                                <point x="0.995643" y="0.543237" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="3" loop="1" name="Joaninha" pingpong="0" repeatcount="1" repeatto="0" sid="862934122841525" speed="5">
+                        <frame duration="1" hotspotX="0.396514" hotspotY="0.997355" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\joaninha.png">
+                            <collision-poly>
+                                <point x="0.116959" y="0.280048" />
+                                <point x="0.561404" y="0.387139" />
+                                <point x="0.713451" y="0.447256" />
+                                <point x="0.836258" y="0.505327" />
+                                <point x="0.783626" y="0.728915" />
+                                <point x="0.637922" y="0.831325" />
+                                <point x="0.0670242" y="0.816294" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.396514" hotspotY="0.997355">
+                            <collision-poly>
+                                <point x="0.116959" y="0.280048" />
+                                <point x="0.561404" y="0.387139" />
+                                <point x="0.713451" y="0.447256" />
+                                <point x="0.836258" y="0.505327" />
+                                <point x="0.783626" y="0.728915" />
+                                <point x="0.637922" y="0.831325" />
+                                <point x="0.0670242" y="0.816294" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.396514" hotspotY="0.997355">
+                            <collision-poly>
+                                <point x="0.116959" y="0.280048" />
+                                <point x="0.561404" y="0.387139" />
+                                <point x="0.713451" y="0.447256" />
+                                <point x="0.836258" y="0.505327" />
+                                <point x="0.783626" y="0.728915" />
+                                <point x="0.637922" y="0.831325" />
+                                <point x="0.0670242" y="0.816294" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="3" loop="1" name="Formiga" pingpong="0" repeatcount="1" repeatto="0" sid="977878182800235" speed="5">
+                        <frame duration="1" hotspotX="0.43573" hotspotY="0.981481" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\Sem Título-1.png">
+                            <collision-poly>
+                                <point x="1" y="0.544475" />
+                                <point x="0.739131" y="1" />
+                                <point x="0.177866" y="0.952347" />
+                                <point x="0" y="0.374816" />
+                                <point x="0.221344" y="0.23217" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.43573" hotspotY="0.981481">
+                            <collision-poly>
+                                <point x="1" y="0.544475" />
+                                <point x="0.739131" y="1" />
+                                <point x="0.177866" y="0.952347" />
+                                <point x="0" y="0.374816" />
+                                <point x="0.221344" y="0.23217" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.43573" hotspotY="0.981481">
+                            <collision-poly>
+                                <point x="1" y="0.544475" />
+                                <point x="0.739131" y="1" />
+                                <point x="0.177866" y="0.952347" />
+                                <point x="0" y="0.374816" />
+                                <point x="0.221344" y="0.23217" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="6" loop="1" name="Sapo" pingpong="0" repeatcount="1" repeatto="0" sid="983674626444932" speed="5">
+                        <frame duration="1" hotspotX="0.518519" hotspotY="1.00794" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\SAPO (1).png">
+                            <collision-poly>
+                                <point x="0.438823" y="0.0597633" />
+                                <point x="0.722689" y="0.0126487" />
+                                <point x="0.932773" y="0.274038" />
+                                <point x="1" y="1" />
+                                <point x="1" y="1" />
+                                <point x="1" y="1" />
+                                <point x="0.57395" y="0.738095" />
+                                <point x="0" y="1" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.518519" hotspotY="1.00794">
+                            <collision-poly>
+                                <point x="0.438823" y="0.0597633" />
+                                <point x="0.722689" y="0.0126487" />
+                                <point x="0.932773" y="0.274038" />
+                                <point x="1" y="1" />
+                                <point x="1" y="1" />
+                                <point x="1" y="1" />
+                                <point x="0.57395" y="0.738095" />
+                                <point x="0" y="1" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.518519" hotspotY="1.00794">
+                            <collision-poly>
+                                <point x="0.438823" y="0.0597633" />
+                                <point x="0.722689" y="0.0126487" />
+                                <point x="0.932773" y="0.274038" />
+                                <point x="1" y="1" />
+                                <point x="1" y="1" />
+                                <point x="1" y="1" />
+                                <point x="0.57395" y="0.738095" />
+                                <point x="0" y="1" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.518519" hotspotY="1.00794">
+                            <collision-poly>
+                                <point x="0.438823" y="0.0597633" />
+                                <point x="0.722689" y="0.0126487" />
+                                <point x="0.932773" y="0.274038" />
+                                <point x="1" y="1" />
+                                <point x="1" y="1" />
+                                <point x="1" y="1" />
+                                <point x="0.57395" y="0.738095" />
+                                <point x="0" y="1" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.518519" hotspotY="1.00794">
+                            <collision-poly>
+                                <point x="0.438823" y="0.0597633" />
+                                <point x="0.722689" y="0.0126487" />
+                                <point x="0.932773" y="0.274038" />
+                                <point x="1" y="1" />
+                                <point x="1" y="1" />
+                                <point x="1" y="1" />
+                                <point x="0.57395" y="0.738095" />
+                                <point x="0" y="1" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.518519" hotspotY="1.00794">
+                            <collision-poly>
+                                <point x="0.438823" y="0.0597633" />
+                                <point x="0.722689" y="0.0126487" />
+                                <point x="0.932773" y="0.274038" />
+                                <point x="1" y="1" />
+                                <point x="1" y="1" />
+                                <point x="1" y="1" />
+                                <point x="0.57395" y="0.738095" />
+                                <point x="0" y="1" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="Personagens" sid="205858168616505">
+                <plugin id="Sprite" />
+                <behaviors>
+                    <behavior-type name="Platform" sid="760755862060433">
+                        <behavior id="Platform" />
+                    </behavior-type>
+                    <behavior-type name="ScrollTo" sid="694392734774986">
+                        <behavior id="scrollto" />
+                    </behavior-type>
+                    <behavior-type name="BoundToLayout" sid="675712845794953">
+                        <behavior id="bound" />
+                    </behavior-type>
+                </behaviors>
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Abelha" pingpong="0" repeatcount="1" repeatto="0" sid="944185081283001" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5">
+                            <image-point name="Imagepoint 1" x="0.992" y="0.592" />
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="Lagarta" pingpong="0" repeatcount="1" repeatto="0" sid="492546569768074" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5">
+                            <image-point name="Imagepoint 1" x="0.98" y="0.536" />
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="AbelhaVoando" sid="167539795184745">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="2" loop="1" name="Abelha" pingpong="0" repeatcount="1" repeatto="0" sid="812523866665084" speed="5">
+                        <frame duration="1" hotspotX="0.495935" hotspotY="0.915493" original-source="C:\Users\Maciell Araujjo\Desktop\Jogo da Abelha - Vitória\Art do Personagem\Sem Título-1.png">
+                            <collision-poly>
+                                <point x="1" y="1" />
+                                <point x="0" y="1" />
+                                <point x="0" y="0" />
+                                <point x="1" y="0" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.446429" hotspotY="0.908451">
+                            <collision-poly>
+                                <point x="1" y="0.503521" />
+                                <point x="1" y="0.765946" />
+                                <point x="1" y="0.893612" />
+                                <point x="0.50276" y="0.815594" />
+                                <point x="0.331818" y="0.503521" />
+                                <point x="0.464773" y="0.177264" />
+                                <point x="1" y="0.042505" />
+                                <point x="1" y="0.234004" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+        </object-folder>
+        <object-type name="Text" sid="812863822537526">
+            <plugin id="Text" />
+        </object-type>
+    </object-folder>
+    <families />
+    <layout-folder>
+        <layout>Tela Splash.xml</layout>
+        <layout>Tela Menu.xml</layout>
+        <layout>TelaPrimeiraFase.xml</layout>
+        <layout>TelaSegundaFase.xml</layout>
+        <layout>Tela Créditos.xml</layout>
+        <layout>Tela Sucesso.xml</layout>
+        <layout>TelaTerceiraFase.xml</layout>
+        <layout>TelaQuartaFase.xml</layout>
+        <layout>TelaGameOver.xml</layout>
+        <layout>TelaInstruções.xml</layout>
+    </layout-folder>
+    <event-folder>
+        <event-sheet>eSplash.xml</event-sheet>
+        <event-sheet>eMenu.xml</event-sheet>
+        <event-sheet>eTodasAsFases.xml</event-sheet>
+        <event-sheet>eSegundaFase.xml</event-sheet>
+        <event-sheet>eCréditos.xml</event-sheet>
+        <event-sheet>eSucesso.xml</event-sheet>
+        <event-sheet>eTerceiraFase.xml</event-sheet>
+        <event-sheet>eQuartaFase.xml</event-sheet>
+        <event-sheet>eGameOver.xml</event-sheet>
+        <event-sheet>eInstruções.xml</event-sheet>
+        <event-sheet>ePrimeiraFase.xml</event-sheet>
+    </event-folder>
+    <global-instances>
+        <global-instance type="Keyboard" uid="24" />
+        <global-instance type="Audio" uid="26">
+            <properties>
+                <timescale-audio>Off</timescale-audio>
+                <saveload>All</saveload>
+                <play-in-background>No</play-in-background>
+                <positioned-audio></positioned-audio>
+                <panning-model>HRTF</panning-model>
+                <distance-model>Inverse</distance-model>
+                <listener-z-height>600</listener-z-height>
+                <reference-distance>600</reference-distance>
+                <maximum-distance>10000</maximum-distance>
+                <roll-off-factor>1</roll-off-factor>
+            </properties>
+        </global-instance>
+    </global-instances>
+    <sounds-folder />
+    <music-folder>
+        <file name="Fracasso.ogg" />
+        <file name="Jogo.ogg" />
+        <file name="Menu.ogg" />
+        <file name="Sucesso.ogg" />
+        <file name="Matou.m4a" />
+        <file name="Matou.ogg" />
+        <file name="PegouMoeda.m4a" />
+        <file name="PegouMoeda.ogg" />
+        <file name="PuloA.m4a" />
+        <file name="PuloA.ogg" />
+        <file name="PuloL.m4a" />
+        <file name="PuloL.ogg" />
+        <file name="Splash.m4a" />
+        <file name="Splash.ogg" />
+        <file name="Clique.m4a" />
+        <file name="Clique.ogg" />
+    </music-folder>
+    <files-folder>
+        <file-folder name="Icons">
+            <file name="icon-16.png" />
+            <file name="icon-32.png" />
+            <file name="icon-114.png" />
+            <file name="icon-128.png" />
+            <file name="icon-256.png" />
+            <file name="loading-logo.png" />
+        </file-folder>
+    </files-folder>
+</c2project>

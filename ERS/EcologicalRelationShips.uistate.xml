@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2uistate>
+    <!--This is a UI state file - its content describes the user interface settings when the project was last open.
+It is entirely optional and the project will load without it.  If you are placing the project under source control,
+you probably do not want to add any .uistate.xml files to the repository.-->
+    <configurations>
+        <active>
+            <configuration name="HTML5" />
+        </active>
+        <display name="HTML5" />
+    </configurations>
+    <open-tabs>
+        <layout order="0">Tela Splash</layout>
+        <layout order="1">TelaPrimeiraFase</layout>
+        <layout active="1" order="2">TelaInstruções</layout>
+    </open-tabs>
+    <properties>
+        <property expanded="1" name="About" />
+        <property expanded="1" name="Project settings" />
+        <property expanded="0" name="Window Size" />
+        <property expanded="1" name="Configuration Settings" />
+    </properties>
+    <families-expanded root="1" />
+    <folders-expanded>
+        <folder expanded="1" path="object-folder/" />
+        <folder expanded="0" path="object-folder/Imagens/" />
+        <folder expanded="0" path="object-folder/Botões/" />
+        <folder expanded="1" path="object-folder/Outros/" />
+        <folder expanded="1" path="object-folder/Animações/" />
+        <folder expanded="1" path="layout-folder/" />
+        <folder expanded="1" path="event-folder/" />
+        <folder expanded="0" path="file-folder/" />
+        <folder expanded="1" path="sound-folder/" />
+        <folder expanded="0" path="music-folder/" />
+        <folder expanded="0" path="file-folder/Icons/" />
+        <folder expanded="1" path="animation-folder/FundoTelas/" />
+        <folder expanded="1" path="animation-folder/BarraPerderPontos/" />
+        <folder expanded="1" path="animation-folder/BarrinhaFantasma/" />
+        <folder expanded="1" path="animation-folder/BarrinhaMovimentação/" />
+        <folder expanded="1" path="animation-folder/BuracoÁgua/" />
+        <folder expanded="1" path="animation-folder/Chão/" />
+        <folder expanded="1" path="animation-folder/ColisorInimigos/" />
+        <folder expanded="1" path="animation-folder/ImagemGameOver/" />
+        <folder expanded="1" path="animation-folder/ImagemHistória/" />
+        <folder expanded="1" path="animation-folder/ImagemInstruções/" />
+        <folder expanded="1" path="animation-folder/ImagemMenu/" />
+        <folder expanded="1" path="animation-folder/Plataforma/" />
+        <folder expanded="1" path="animation-folder/NomeEmpresa/" />
+        <folder expanded="1" path="animation-folder/ImagemCréditos/" />
+        <folder expanded="1" path="animation-folder/ImagemSucesso/" />
+        <folder expanded="1" path="animation-folder/Vida/" />
+        <folder expanded="1" path="animation-folder/IPersonagem/" />
+        <folder expanded="1" path="animation-folder/iBarraPerderPontos/" />
+        <folder expanded="1" path="animation-folder/iBarrinhaFantasma/" />
+        <folder expanded="1" path="animation-folder/BgQuartaFase/" />
+        <folder expanded="1" path="animation-folder/Kika/" />
+        <folder expanded="1" path="animation-folder/FotoMLCréditos/" />
+        <folder expanded="1" path="animation-folder/FotoVCCréditos/" />
+        <folder expanded="1" path="animation-folder/FunçoesVC/" />
+        <folder expanded="1" path="animation-folder/GameOverAbelha/" />
+        <folder expanded="1" path="animation-folder/GameOverLargata/" />
+        <folder expanded="1" path="animation-folder/ScoreImagem/" />
+        <folder expanded="1" path="animation-folder/Pausa/" />
+        <folder expanded="1" path="animation-folder/BCréditos/" />
+        <folder expanded="1" path="animation-folder/BFechar/" />
+        <folder expanded="1" path="animation-folder/BInstruções/" />
+        <folder expanded="1" path="animation-folder/BMenu/" />
+        <folder expanded="1" path="animation-folder/BNewGame/" />
+        <folder expanded="1" path="animation-folder/BPoder/" />
+        <folder expanded="1" path="animation-folder/Fade/" />
+        <folder expanded="1" path="animation-folder/Music/" />
+        <folder expanded="1" path="animation-folder/Parafuso/" />
+        <folder expanded="1" path="animation-folder/NomeJogo/" />
+        <folder expanded="1" path="animation-folder/Terra1/" />
+        <folder expanded="1" path="animation-folder/Terra2/" />
+        <folder expanded="1" path="animation-folder/BarraCarregamento/" />
+        <folder expanded="1" path="animation-folder/Moeda/" />
+        <folder expanded="1" path="animation-folder/Munição/" />
+        <folder expanded="1" path="animation-folder/Inimigos/" />
+        <folder expanded="1" path="animation-folder/Personagens/" />
+        <folder expanded="1" path="animation-folder/AbelhaVoando/" />
+    </folders-expanded>
+</c2uistate>
