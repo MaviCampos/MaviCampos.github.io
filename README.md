@@ -24,7 +24,7 @@ Estudante de Jogos Digitais.
 
 #### Alunos
 
-![bebe](https://ichef.bbci.co.uk/news/660/cpsprodpb/2706/production/_100809990_p062gtg0-1.jpg)
+![bebe](https://http2.mlstatic.com/fantasia-de-papai-noel-beb-crianca-infantil-roupa-de-veludo-D_NQ_NP_993486-MLB26328741022_112017-F.jpg)
 
 
 ### Markdown
