@@ -6,6 +6,14 @@ Estudante de Jogos Digitais.
 
 # Contatos 
 
+1. E-mail:
+2. Instagram:
+
+
+- Número 1:
+- Número 2:
+
+
 ## Jogos
 
 ### Artes
