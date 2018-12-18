@@ -24,7 +24,7 @@ Estudante de Jogos Digitais.
 
 #### Alunos
 
-[bebe](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjfgeHM7KnfAhXLh5AKHYIMAQIQjRx6BAgBEAU&url=https%3A%2F%2Fbebemamae.com%2Ffamilia-e-bebe%2Fansiedade-e-desconforto-no-bebe-reconheca-os-sinais&psig=AOvVaw3Brg61mSarII032pJX7K04&ust=1545238623918179)
+[bebe](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjfgeHM7KnfAhXLh5AKHYIMAQIQjRx6BAgBEAU&url=https%3A%2F%2Fbebemamae.com%2Ffamilia-e-bebe%2Fansiedade-e-desconforto-no-bebe-reconheca-os-sinais&psig=AOvVaw3Brg61mSarII032pJX7K04&ust=1545238623918179)!
 
 
 ### Markdown
