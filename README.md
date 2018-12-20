@@ -1,4 +1,4 @@
- #       **Meu Portfólio**
+ #    **Meu Portfólio**
 
 _Mavi Campos, 18 anos_.
 
@@ -11,11 +11,13 @@ _Estudante de Jogos Digitais_.
 # Contatos 
 
 *E-mail:* _vitoriafcampos@outlook.com.br_
+
 *Telefone:* _55(84) 98865-5596_
 
 # Redes Sociais
 
 *Instagram:* _@Mavicamposs_
+
 *Facebook:* _Mavi Campos_
 
 ## Jogos
