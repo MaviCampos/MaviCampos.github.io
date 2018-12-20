@@ -1,4 +1,4 @@
- #  **Meu Portfólio** :two_hearts:
+ # **Meu Portfólio**
 
 :woman: _Mavi Campos, 18 anos_.
 
