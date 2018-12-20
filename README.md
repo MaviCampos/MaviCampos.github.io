@@ -1,4 +1,4 @@
-# **Meu Portfólio**
+# **Meu Portfólio** ![emojic](emojic.jpg)
 
 :woman: _Mavi Campos, 18 anos_.
 
