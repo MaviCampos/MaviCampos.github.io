@@ -19,6 +19,8 @@
 
 :camera: *Instagram:* [@Mavicamposs](https://www.instagram.com/mavicamposs/?hl=pt-br)
 
+*Instagram:* <a href="https://www.instagram.com/mavicamposs/?hl=pt-br" target="_blank"> [@Mavicamposs]</a>
+
 :busts_in_silhouette: *Facebook:* [Mavi Campos](https://www.facebook.com/vitoria.campos3154)
 
 # Apresentação
@@ -57,7 +59,7 @@
 <a href="https://www.google.com.br/" target="_blank"> ![Imagem1](images.jpg) </a>
 
 
-<a href="https://www.google.com.br/" target="_blank"> CLIQUE AQUI </a>
+<a href="https://www.google.com.br/"> CLIQUE AQUI </a>
 
 #### Alunos
 
