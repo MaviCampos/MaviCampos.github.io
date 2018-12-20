@@ -10,7 +10,7 @@ _Estudante de Jogos Digitais_.
 
 # Contatos 
 
-*E-mail:* [vitoriafcampos@outlook.com.br](https://outlook.live.com/mail/inbox) 
+:busts_in_silhouette: *E-mail:* [vitoriafcampos@outlook.com.br](https://outlook.live.com/mail/inbox) 
 
 *Telefone:* _55(84) 98865-5596_
 
