@@ -18,7 +18,7 @@
 
 # Redes Sociais
 
-:camera: *Instagram:* [@Mavicamposs](https://www.instagram.com/mavicampos/?hl=pt-br)
+:camera: *Instagram:* [@Mavicamposs](https://www.instagram.com/mavicamposs/?hl=pt-br)
 
 :busts_in_silhouette: *Facebook:* [Mavi Campos](https://www.facebook.com/vitoria.campos3154)
 
@@ -50,7 +50,6 @@
 
 4. Adicionar um link que seja Imagem (url + arquivo) 
 
-![Imagem2](sleeping-baby-article.jpg)
 [![Imagem2](sleeping-baby-article.jpg)](http://Twitter.com)
 
 
