@@ -41,7 +41,7 @@
 
 3. Adicionar Imagens do Computador (arquivo)
 ![Imagem1] (images.jpg)
-![Imagem2](sleeping-baby-article.jpg)
+![Imagem2] (sleeping-baby-article.jpg)
 
 #### Alunos
 
