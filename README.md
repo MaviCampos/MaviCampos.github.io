@@ -1,6 +1,6 @@
 # **Meu Portfólio** ![emojic](emojic.jpg)
 
-![emojib](emojib.jpg) _Mavi Campos, 18 anos_.
+![emojibon](emojibon.jpg) _Mavi Campos, 18 anos_.
 
 :anchor: _Brasileira, Potiguar_.
 
