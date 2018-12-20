@@ -52,6 +52,13 @@
 [![Imagem2](sleeping-baby-article.jpg)](http://google.com)
 
 
+5. Avançado: Adicionar um Link que seja Imagem e que abra em uma Nova Janela.
+
+<a href="htpp://google.com" target="_blank"> ![Imagem1](images.jpg) </a>
+
+
+<a href="htpp://google.com"> CLIQUE AQUI </a>
+
 #### Alunos
 
 
