@@ -18,9 +18,9 @@
 
 # Redes Sociais
 
-:camera: *Instagram:* [@Mavicamposs](https://www.instagram.com/)
+:camera: *Instagram:* [@Mavicamposs](https://www.instagram.com/mavicampos/?hl=pt-br)
 
-:busts_in_silhouette: *Facebook:* [Mavi Campos](https://www.facebook.com/)
+:busts_in_silhouette: *Facebook:* [Mavi Campos](https://www.facebook.com/vitoria.campos3154)
 
 # Apresentação
 
@@ -32,7 +32,15 @@
 
 ### Artes
 1. Adicionar um link (url)
-[clique aqui](http://google.com)
+[clique aqui](https://i.ytimg.com/vi/DSnbZUjIyAc/maxresdefault.jpg)
+
+
+2. Adicionar uma Imagem da Intrnet
+![clique aqui](https://i.ytimg.com/vi/DSnbZUjIyAc/maxresdefault.jpg)
+
+
+3. Adicionar
+
 
 #### Alunos
 
