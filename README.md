@@ -57,7 +57,7 @@
 <a href="htpp://google.com" target="_blank"> ![Imagem1](images.jpg) </a>
 
 
-<a href="htpp://google.com"> CLIQUE AQUI </a>
+<a href="htpp://google.com" target="_blank"> CLIQUE AQUI </a>
 
 #### Alunos
 
