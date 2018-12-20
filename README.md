@@ -4,18 +4,19 @@ _Mavi Campos, 18 anos_.
 
 _Estudante de Jogos Digitais_.
 
-===============================================
 
 ![eu](https://scontent.frec10-1.fna.fbcdn.net/v/t1.0-9/48406740_1075974062574434_1245792213808447488_n.jpg?_nc_cat=103&_nc_ht=scontent.frec10-1.fna&oh=a887712b187400b8a7c9174746337aee&oe=5CD67B09)
+
+
 # Contatos 
 
-1. E-mail:
-2. Instagram:
+*E-mail:* _vitoriafcampos@outlook.com.br_
+*Telefone:* _55(84) 98865-5596_
 
+# Redes Sociais
 
-- Número 1:
-- Número 2:
-
+*Instagram:* _@Mavicamposs_
+*Facebook:* _Mavi Campos_
 
 ## Jogos
 
