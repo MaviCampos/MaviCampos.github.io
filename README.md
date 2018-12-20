@@ -40,6 +40,8 @@
 
 
 3. Adicionar Imagens do Computador (arquivo)
+
+
 ![Imagem1] (images.jpg)
 
 
