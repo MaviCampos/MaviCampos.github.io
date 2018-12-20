@@ -2,6 +2,8 @@
 
 :woman: _Mavi Campos, 18 anos_.
 
+:anchor: _Brasileira, Potiguar_.
+
 :video_game: _Estudante de Jogos Digitais_.
 
 
