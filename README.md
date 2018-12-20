@@ -4,6 +4,7 @@ Mavi Campos, 18 anos.
 
 Estudante de Jogos Digitais.
 
+![eu](https://scontent.frec10-1.fna.fbcdn.net/v/t1.0-9/2946_508010909370755_6281551251248852139_n.jpg?_nc_cat=111&_nc_ht=scontent.frec10-1.fna&oh=8ddba0ea978b8f6548ecc6b37806b75f&oe=5CD958C4)
 # Contatos 
 
 1. E-mail:
@@ -24,7 +25,7 @@ Estudante de Jogos Digitais.
 
 #### Alunos
 
-![bebe](https://http2.mlstatic.com/fantasia-de-papai-noel-beb-crianca-infantil-roupa-de-veludo-D_NQ_NP_993486-MLB26328741022_112017-F.jpg)
+
 
 
 ### Markdown
