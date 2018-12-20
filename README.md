@@ -1,4 +1,4 @@
- #  {c:red}Meu Portfólio.{/c} 
+ #  Meu Portfólio
 
 _Mavi Campos, 18 anos_.
 
