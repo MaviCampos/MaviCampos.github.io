@@ -47,6 +47,13 @@
 
 ![Imagem2](sleeping-baby-article.jpg)
 
+
+4. Adicionar um link que seja Imagem (url + arquivo) 
+
+![Imagem2](sleeping-baby-article.jpg)
+[![Imagem2](sleeping-baby-article.jpg)](http://Twitter.com)
+
+
 #### Alunos
 
 
