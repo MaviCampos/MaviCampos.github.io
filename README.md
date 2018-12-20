@@ -59,7 +59,7 @@
 <a href="https://www.google.com.br/" target="_blank"> ![Imagem1](images.jpg) </a>
 
 
-<a href="https://www.google.com.br/"> CLIQUE AQUI </a>
+<a href="https://www.google.com.br/"target="_blank"> CLIQUE AQUI </a>
 
 #### Alunos
 
