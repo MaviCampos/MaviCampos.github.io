@@ -16,9 +16,9 @@ _Estudante de Jogos Digitais_.
 
 # Redes Sociais
 
-*Instagram:* _@Mavicamposs_
+*Instagram:* <@Mavicamposs>
 
-*Facebook:* _Mavi Campos_
+*Facebook:* <Mavi Campos>
 
 ## Jogos
 
