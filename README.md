@@ -39,8 +39,9 @@
 ![clique aqui](https://i.ytimg.com/vi/DSnbZUjIyAc/maxresdefault.jpg)
 
 
-3. Adicionar
-
+3. Adicionar Imagens do Computador (arquivo)
+![Imagem1] (images.jpg)
+![Imagem2](sleeping-baby-article.jpg)
 
 #### Alunos
 
