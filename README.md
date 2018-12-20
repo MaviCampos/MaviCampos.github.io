@@ -10,7 +10,7 @@ _Estudante de Jogos Digitais_.
 
 # Contatos 
 
-*E-mail:* _vitoriafcampos@outlook.com.br_
+*E-mail:* <vitoriafcampos@outlook.com.br> 
 
 *Telefone:* _55(84) 98865-5596_
 
