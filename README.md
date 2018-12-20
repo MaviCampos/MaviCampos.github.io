@@ -19,7 +19,7 @@
 
 :camera: *Instagram:* [@Mavicamposs](https://www.instagram.com/mavicamposs/?hl=pt-br)
 
-*Instagram:* <a href="https://www.instagram.com/mavicamposs/?hl=pt-br" target="_blank"> [@Mavicamposs]</a>
+*Instagram:* <a href="https://www.instagram.com/mavicamposs/?hl=pt-br" target="_blank"> @Mavicamposs </a>
 
 :busts_in_silhouette: *Facebook:* [Mavi Campos](https://www.facebook.com/vitoria.campos3154)
 
