@@ -2,7 +2,7 @@
 
 ![emojibon](emojibon.jpg) _Mavi Campos, 18 anos_.
 
-:anchor: _Brasileira, Potiguar_.
+![emojiban](emojiban.jpg) _Brasileira, Potiguar_.
 
 :video_game: _Estudante de Jogos Digitais_.
 
