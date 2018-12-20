@@ -4,7 +4,7 @@ Mavi Campos, 18 anos.
 
 Estudante de Jogos Digitais.
 
-![eu](https://scontent.frec10-1.fna.fbcdn.net/v/t1.0-9/2946_508010909370755_6281551251248852139_n.jpg?_nc_cat=111&_nc_ht=scontent.frec10-1.fna&oh=8ddba0ea978b8f6548ecc6b37806b75f&oe=5CD958C4)
+![eu](https://scontent.frec10-1.fna.fbcdn.net/v/t1.0-9/48406740_1075974062574434_1245792213808447488_n.jpg?_nc_cat=103&_nc_ht=scontent.frec10-1.fna&oh=a887712b187400b8a7c9174746337aee&oe=5CD67B09)
 # Contatos 
 
 1. E-mail:
