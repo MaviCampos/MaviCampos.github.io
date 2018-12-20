@@ -10,7 +10,7 @@ _Estudante de Jogos Digitais_.
 
 # Contatos 
 
-:busts_in_silhouette: *E-mail:* [vitoriafcampos@outlook.com.br](https://outlook.live.com/mail/inbox) 
+:love_letter: *E-mail:* [vitoriafcampos@outlook.com.br](https://outlook.live.com/mail/inbox) 
 
 *Telefone:* _55(84) 98865-5596_
 
@@ -18,7 +18,7 @@ _Estudante de Jogos Digitais_.
 
 *Instagram:* [@Mavicamposs](https://www.instagram.com/)
 
-*Facebook:* [Mavi Campos](https://www.facebook.com/)
+:busts_in_silhouette: *Facebook:* [Mavi Campos](https://www.facebook.com/)
 
 ## Jogos
 
