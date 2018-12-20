@@ -50,7 +50,7 @@
 
 4. Adicionar um link que seja Imagem (url + arquivo) 
 
-[![Imagem2](sleeping-baby-article.jpg)](http://Twitter.com)
+[![Imagem2](sleeping-baby-article.jpg)](http://google.com)
 
 
 #### Alunos
