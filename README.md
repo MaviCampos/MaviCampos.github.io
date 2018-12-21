@@ -87,7 +87,7 @@ Help them have fun!
 
 ![marcador](marcador.jpg) What are your limits?
 The volume will increase or decrease your choice
-Set a maximum temperature, or be careful not to cool.
+Set a maximum temperature, or be careful not to cool. 
 Good luck!
 
 
@@ -115,13 +115,17 @@ You decide!
 ## CITOGAME
 
 ![marcador](marcador.jpg) Difficulties with cytology?
-Make your learning easier by phagocitando in Guilherme's story!
+Make your learning easier by phagocytizing in Guilherme's story!
 
 
 <a href="https://mavicampos.github.io/SA/" target="_blank"> Let's go! </a>
 
 
 ![CISC](CISC.png)
+
+
+# **ARTES** ![JOGOS](JOGOS.jpg)
+
 
 
 
