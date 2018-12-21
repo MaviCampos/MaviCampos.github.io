@@ -57,7 +57,8 @@
 
 ## AGAINST THE FLOW
 
-![marcador](marcador.jpg) Até onde por amor ao seu filho você iria? Entre na aventura com Richard para salvar a pequena 
+![marcador](marcador.jpg) Until the love of your son would you?
+Enter the adventure with Richard to save little Aurora!
 
 
 <a href="mavicampos.github.io/ATF" target="_blank"> Let'go! </a>
