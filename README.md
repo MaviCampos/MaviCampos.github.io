@@ -50,8 +50,9 @@
 
 ![FACE](FACE.jpg) *Facebook:* <a href="https://www.facebook.com/vitoria.campos3154" target="_blank"> Mavi Campos </a>
 
-![TW](TW.jpg) *Twitter:* <a href="https://www.twitter.com/MaviCamposss" target="_blank"> Mavi Campos </a>
+![TW](TW.jpg) *Twitter:* <a href="https://www.twitter.com/MaviCamposss" target="_blank"> MaviCamposss </a>
 
+![GIT](GIT.jpg) *Github:* <a href="https://github.com/MaviCampos" target="_blank"> MaviCampos </a>
 
 # **GAMES** ![JOGOS](JOGOS.jpg)
 
