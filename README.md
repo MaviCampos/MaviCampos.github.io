@@ -7,7 +7,7 @@
 ![emojijoy](emojijoy.jpg) _Developer Student - Graphic Student - Game Programming_.
 
 #  **PRESENTATION** ![emojilupa](emojilupa.jpg)
-![EUMELHOR0](EUMELHOR0.jpg)  ![EUMELHOR1](EUMELHOR1.jpeg)
+![EUMELHOR](EUMELHOR.png)  ![EUMELHOR1](EUMELHOR1.png)
 
 * I’m a potiguar digital game programming student through the IFRN-CM and I have 18 years old.
 * I dream  i’ll be study languages in college with specialization in LIBRAS.
