@@ -1,4 +1,4 @@
-# **Meu Portfólio** ![emojicor](emojicor.jpg)
+# **Portfólio** ![emojicor](emojicor.jpg)
 
 ![emojibon](emojibon.jpg) _Mavi Campos, 18 years_.
 
@@ -6,23 +6,24 @@
 
 ![emojijoy](emojijoy.jpg) _Developer Student - Graphic Student - Game Programming_.
 
-#  **Apresentação** ![emojilupa](emojilupa.jpg)
+#  **Presentation** ![emojilupa](emojilupa.jpg)
 ![eu](eu.jpg)  ![eufinal](eufinal.jpg)
-# Contatos 
+
+# Contacts 
 
 :love_letter: *E-mail:* [vitoriafcampos@outlook.com.br](https://outlook.live.com/mail/inbox) 
 
 :telephone_receiver: *Telefone:* _55(84) 98865-5596_
 
-# Redes Sociais
+# Social Networks
 
-:camera: *Instagram:* [@Mavicamposs](https://www.instagram.com/mavicamposs/?hl=pt-br)
 
 *Instagram:* <a href="https://www.instagram.com/mavicamposs/?hl=pt-br" target="_blank"> @Mavicamposs </a>
 
-:busts_in_silhouette: *Facebook:* [Mavi Campos](https://www.facebook.com/vitoria.campos3154)
+*Facebook:* <a href="https://www.facebook.com/vitoria.campos3154" target="_blank"> Mavi Campos </a>
 
-# Apresentação
+
+
 
 
 ## Jogos
