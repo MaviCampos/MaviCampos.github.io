@@ -9,6 +9,16 @@
 #  **Presentation** ![emojilupa](emojilupa.jpg)
 ![eu](eu.jpg)  ![eufinal](eufinal.jpg)
 
+* I’m a potiguar digital game programming student through the IFRN-CM and I have 18 years old.
+* I dream  i’ll be study languages in college with specialization in LIBRAS.
+* I am currently a Portuguese Language monitor.
+* I love the movieS
+- Extraordinary 
+- The Hammer
+- The Age of Adaline
+- The Curious Case Of Benjamin Button 
+
+
 # Contacts 
 
 :love_letter: *E-mail:* [vitoriafcampos@outlook.com.br](https://outlook.live.com/mail/inbox) 
