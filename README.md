@@ -61,8 +61,23 @@
 Enter the adventure with Richard to save little Aurora!
 
 
-<a href="https://mavicampos.github.io/ATF/" target="_blank"> Let'go! </a>
+<a href="https://mavicampos.github.io/ATF/" target="_blank"> Let's go! </a>
 
 
 ![atfcom1](atfcom1.png)
+
+
+
+## ECOLOGICAL RELATIONSHIPS
+
+![marcador](marcador.jpg) How many adventures have you had with your best friend?
+How many adventures do you want to live with him again?
+Zizi and Kika are best friends.
+Help them have fun!
+
+
+<a href="https://mavicampos.github.io/ERS/" target="_blank"> Let's go! </a>
+
+
+![ERSCOM](ERSCOM.png)
 
