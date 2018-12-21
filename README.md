@@ -31,7 +31,7 @@
 
 # CONTACTS ![CONTATO](CONTATO.jpg)
 
-![OUT](OUT.jpg)*E-mail:* [vitoriafcampos@outlook.com.br](https://outlook.live.com/mail/inbox) 
+![OUT](OUT.jpg)*E-mail:* <a href="https://outlook.live.com/mail/inbox" target="_blank"> vitoriafcampos@outlook.com.br </a>
 
 ![WHA](WHA.jpg) *Telefone:* _55(84) 98865-5596_
 
