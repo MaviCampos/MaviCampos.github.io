@@ -53,7 +53,7 @@
 ![TW](TW.jpg) *Twitter:* <a href="https://www.twitter.com/MaviCamposss" target="_blank"> Mavi Campos </a>
 
 
-# **GAMES** ![REDES](REDES.jpg)
+# **GAMES** ![JOGOS](JOGOS.jpg)
 
 
 
