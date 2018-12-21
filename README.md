@@ -9,12 +9,14 @@
 #  **PRESENTATION** ![emojilupa](emojilupa.jpg)
 ![euenfim](euenfim.png) 
 
-* I’m a potiguar digital game programming student through the IFRN-CM and I have 18 years old.
-* I dream  i’ll be study languages in college with specialization in LIBRAS.
-* I am currently a Portuguese Language monitor.
+![marcador](marcador.jpg) I’m a potiguar digital game programming student through the IFRN-CM and I have 18 years old.
+
+![marcador](marcador.jpg) I dream  i’ll be study languages in college with specialization in LIBRAS.
+
+![marcador](marcador.jpg) I am currently a Portuguese Language monitor.
 
 
-* I love the four movies:
+![marcador](marcador.jpg) I love the four movies:
 
 
 1. Extraordinary 
@@ -23,7 +25,7 @@
 4. The Curious Case Of Benjamin Button
 
 
-* My seven favorite books:
+![marcador](marcador.jpg) My seven favorite books:
 
 
 1. Eu, pescador de mim - Wagner Costa
