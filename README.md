@@ -6,7 +6,7 @@
 
 ![emojijoy](emojijoy.jpg) _Developer Student - Graphic Student - Game Programming_.
 
-#  **Presentation** ![emojilupa](emojilupa.jpg)
+#  **PRESENTATION** ![emojilupa](emojilupa.jpg)
 ![eu](eu.jpg)  ![eufinal](eufinal.jpg)
 
 * I’m a potiguar digital game programming student through the IFRN-CM and I have 18 years old.
@@ -29,7 +29,7 @@
 7. Mudando de Casca - Giselda Laporta Nicolelis
 
 
-# Contacts 
+# CONTACTS ![emojilupa](emojilupa.jpg)
 
 :love_letter: *E-mail:* [vitoriafcampos@outlook.com.br](https://outlook.live.com/mail/inbox) 
 
