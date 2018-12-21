@@ -12,11 +12,21 @@
 * I’m a potiguar digital game programming student through the IFRN-CM and I have 18 years old.
 * I dream  i’ll be study languages in college with specialization in LIBRAS.
 * I am currently a Portuguese Language monitor.
-* I love the movieS
-- Extraordinary 
-- The Hammer
-- The Age of Adaline
-- The Curious Case Of Benjamin Button 
+* I love the four movies
+1. Extraordinary 
+2. The Hammer
+3. The Age of Adaline
+4. The Curious Case Of Benjamin Button
+
+* My seven favorite books
+
+1. Eu, pescador de mim - Wagner Costa
+2. O Príncipe - Nicolau Maquiavel
+3. O futuro da Humanidade - Augusto Cury
+4. Libras, que língua é essa? - Audrei Gesser
+5. Meu primeiro beijo - Walcyr Carrasco
+6. Crianças na Escuridão - Júlio Emílio Braz
+7. Mudando de Casca - Giselda Laporta Nicolelis
 
 
 # Contacts 
