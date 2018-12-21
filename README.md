@@ -7,8 +7,7 @@
 ![emojijoy](emojijoy.jpg) _Estudante de Jogos Digitais_.
 
 #  **Apresentação** ![emojilupa](emojilupa.jpg)
-![eu2](eu2.jpg)  
-![eu](eu.jpg)
+![eu2](eu2.png)  ![eu](eu.jpg)
 # Contatos 
 
 :love_letter: *E-mail:* [vitoriafcampos@outlook.com.br](https://outlook.live.com/mail/inbox) 
