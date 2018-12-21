@@ -131,6 +131,6 @@ Make your learning easier by phagocytizing in Guilherme's story!
 
 # **ARTES** ![ARTES](ARTES.jpg)
 
-
-
-
+![P1](P1.png)
+![P2](P2.png)
+![P3](P3.png)
