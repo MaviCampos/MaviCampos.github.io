@@ -124,7 +124,7 @@ Make your learning easier by phagocytizing in Guilherme's story!
 ![CISC](CISC.png)
 
 
-# **ARTES** ![JOGOS](JOGOS.jpg)
+# **ARTES** ![ARTES](ARTES.jpg)
 
 
 
