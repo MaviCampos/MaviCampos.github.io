@@ -37,13 +37,13 @@
 7. Mudando de Casca - Giselda Laporta Nicolelis
 
 
-# CONTACTS ![CONTATO](CONTATO.jpg)
+# _CONTACTS_ ![CONTATO](CONTATO.jpg)
 
 ![OUT](OUT.jpg)*E-mail:* <a href="https://outlook.live.com/mail/inbox" target="_blank"> vitoriafcampos@outlook.com.br </a>
 
 ![WHA](WHA.jpg) *Telefone:* _55(84) 98865-5596_
 
-# SOCIAL NETWORKS ![REDES](REDES.jpg)
+# _SOCIAL NETWORKS_ ![REDES](REDES.jpg)
 
 
 ![INS](INS.jpg) *Instagram:* <a href="https://www.instagram.com/mavicamposs/?hl=pt-br" target="_blank"> @Mavicamposs </a>
@@ -53,6 +53,7 @@
 ![TW](TW.jpg) *Twitter:* <a href="https://www.twitter.com/MaviCamposss" target="_blank"> Mavi Campos </a>
 
 
+# **GAMES** ![REDES](REDES.jpg)
 
 
 
