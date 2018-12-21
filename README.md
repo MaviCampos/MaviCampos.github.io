@@ -81,3 +81,18 @@ Help them have fun!
 
 ![ERSCOM](ERSCOM.png)
 
+
+
+## THERMAL BALANCE
+
+![marcador](marcador.jpg) What are your limits?
+The volume will increase or decrease your choice
+Set a maximum temperature, or be careful not to cool.
+Good luck!
+
+
+<a href="https://mavicampos.github.io/TB/" target="_blank"> Let's go! </a>
+
+
+![TBC](TBC.png)
+
