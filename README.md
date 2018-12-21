@@ -1,10 +1,10 @@
 # **Meu Portfólio** ![emojicor](emojicor.jpg)
 
-![emojibon](emojibon.jpg) _Mavi Campos, 18 anos_.
+![emojibon](emojibon.jpg) _Mavi Campos, 18 years_.
 
-![emojiban](emojiban.jpg) _Brasileira, Potiguar_.
+![emojiban](emojiban.jpg) _Brasilian, Potiguar_.
 
-![emojijoy](emojijoy.jpg) _Estudante de Jogos Digitais_.
+![emojijoy](emojijoy.jpg) _Developer Student - Graphic Student - Game Programming_.
 
 #  **Apresentação** ![emojilupa](emojilupa.jpg)
 ![eu](eu.jpg)  ![eufinal](eufinal.jpg)
