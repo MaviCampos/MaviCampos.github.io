@@ -121,7 +121,7 @@ Make your learning easier by phagocitando in Guilherme's story!
 <a href="https://mavicampos.github.io/SA/" target="_blank"> Let's go! </a>
 
 
-![SAC](SAC.png)
+![CISC](CISC.png)
 
 
 
