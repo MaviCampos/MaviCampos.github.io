@@ -61,7 +61,7 @@
 Enter the adventure with Richard to save little Aurora!
 
 
-<a href="mavicampos.github.io/ATF" target="_blank"> Let'go! </a>
+<a href="http://mavicampos.github.io/ATF" target="_blank"> Let'go! </a>
 
 
 ![atfcom1](atfcom1.png)
