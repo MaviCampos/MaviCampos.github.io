@@ -54,6 +54,8 @@
 
 ![GIT](GIT.jpg) *Github:* <a href="https://github.com/MaviCampos" target="_blank"> MaviCampos </a>
 
+![cur](cur.jpg) *Curriculum lattes:* <a href="http://lattes.cnpq.br/7418730248694689"_blank"> Mavi Campos </a>
+
 # **GAMES** ![JOGOS](JOGOS.jpg)
 
 ## AGAINST THE FLOW
