@@ -1,22 +1,20 @@
-# **PORTFOLIO** ![emojicor](emojicor.jpg)
+# **PORTFÓLIO** ![emojicor](emojicor.jpg)
 
-![emojibon](emojibon.jpg) _Mavi Campos, 18 years_.
+![emojibon](emojibon.jpg) _Mavi Campos, 18 anos_.
 
-![emojiban](emojiban.jpg) _Brasilian, Potiguar_.
+![emojiban](emojiban.jpg) _Brasileira, Potiguar_.
 
-![emojijoy](emojijoy.jpg) _Developer Student - Graphic Student - Game Programming_.
+![emojijoy](emojijoy.jpg) _Estudante desenvolvedora - Programadora de Jogos - Acadêmica de gráficos_.
 
-#  **PRESENTATION** ![emojilupa](emojilupa.jpg)
+#  **APRESENTAÇÃO** ![emojilupa](emojilupa.jpg)
 ![euenfim](euenfim.png) 
 
-![marcador](marcador.jpg) I’m a potiguar digital game programming student through the IFRN-CM and I have 18 years old.
+![marcador](marcador.jpg) Almejo cursar Letras - Língua Portuguesa/Libras na UFRN. 
 
-![marcador](marcador.jpg) I dream  i’ll be study languages in college with specialization in LIBRAS.
-
-![marcador](marcador.jpg) I am currently a Portuguese Language monitor.
+![marcador](marcador.jpg) Sou monitora de Língua Portuguesa, atualmente.
 
 
-![marcador](marcador.jpg) I love the four movies:
+![marcador](marcador.jpg) Eu amo quatro filmes:
 
 
 1. Extraordinary 
@@ -25,45 +23,24 @@
 4. The Curious Case Of Benjamin Button
 
 
-![marcador](marcador.jpg) My seven favorite books:
+![marcador](marcador.jpg) Meus livros favoritos são:
 
 
-1. Eu, pescador de mim - Wagner Costa
-2. O Príncipe - Nicolau Maquiavel
-3. O futuro da Humanidade - Augusto Cury
-4. Libras, que língua é essa? - Audrei Gesser
-5. Meu primeiro beijo - Walcyr Carrasco
-6. Crianças na Escuridão - Júlio Emílio Braz
-7. Mudando de Casca - Giselda Laporta Nicolelis
-
-
-# _CONTACTS_ ![CONTATO](CONTATO.jpg)
-
-![OUT](OUT.jpg) *E-mail:* <a href="https://outlook.live.com/mail/inbox" target="_blank"> vitoriafcampos@outlook.com.br </a>
-
-![WHA](WHA.jpg) *Telefone:* _55(84) 98865-5596_
-
-![cur](cur.jpg) *Curriculum lattes:* <a href="http://lattes.cnpq.br/7418730248694689" target="_blank"> Mavi Campos </a>
-
-# _SOCIAL NETWORKS_ ![REDES](REDES.jpg)
-
-
-![INS](INS.jpg) *Instagram:* <a href="https://www.instagram.com/mavicamposs/?hl=pt-br" target="_blank"> @Mavicamposs </a>
-
-![FACE](FACE.jpg) *Facebook:* <a href="https://www.facebook.com/vitoria.campos3154" target="_blank"> Mavi Campos </a>
-
-![TW](TW.jpg) *Twitter:* <a href="https://www.twitter.com/MaviCamposss" target="_blank"> MaviCamposss </a>
-
-![GIT](GIT.jpg) *Github:* <a href="https://github.com/MaviCampos" target="_blank"> MaviCampos </a>
-
-
+1. Eu, pescador de mim - Wagner Costa;
+2. O Príncipe - Nicolau Maquiavel;
+3. O futuro da Humanidade - Augusto Cury;
+4. Libras, que língua é essa? - Audrei Gesser;
+5. Meu primeiro beijo - Walcyr Carrasco;
+6. Crianças na Escuridão - Júlio Emílio Braz;
+7. Mudando de Casca - Giselda Laporta Nicolelis;
+8. O Pequeno Príncipe - Antoine de Saint Exupéry.
 
 # **GAMES** ![JOGOS](JOGOS.jpg)
 
 ## AGAINST THE FLOW
 
-![marcador](marcador.jpg) Until the love of your son would you?
-Enter the adventure with Richard to save little Aurora!
+![marcador](marcador.jpg) Até onde você iria por amor ao seu filho?
+Entre na aventura com Richard para salvar a pequena Aurora!
 
 
 <a href="https://mavicampos.github.io/ATF/" target="_blank"> Let's go! </a>
@@ -75,10 +52,10 @@ Enter the adventure with Richard to save little Aurora!
 
 ## ECOLOGICAL RELATIONSHIPS
 
-![marcador](marcador.jpg) How many adventures have you had with your best friend?
-How many adventures do you want to live with him again?
-Zizi and Kika are best friends.
-Help them have fun!
+![marcador](marcador.jpg) Quantas aventuras você teve com seu melhor amigo?
+Quantas dessas deseja viver novamente com ele?
+Zizi e Kika são melhores amigas.
+Ajude-as a se divertirem!
 
 
 <a href="https://mavicampos.github.io/ERS/" target="_blank"> Let's go! </a>
@@ -90,11 +67,10 @@ Help them have fun!
 
 ## THERMAL BALANCE
 
-![marcador](marcador.jpg) What are your limits?
-The volume will increase or decrease your choice
-Set a maximum temperature, or be careful not to cool. 
-Good luck!
-
+![marcador](marcador.jpg) Quais são seus limites?
+A temperatura aumentará ou diminuirá  de acordo com suas escolhas
+Defina a temperatura máxima ou tenha cuidado para não esfriar.
+Boa sorte!
 
 <a href="https://mavicampos.github.io/TB/" target="_blank"> Let's go! </a>
 
@@ -105,9 +81,9 @@ Good luck!
 
 ## SPIDER AIRCRAFT
 
-![marcador](marcador.jpg) How about getting back to a classic?
-Movies or game?
-You decide!
+![marcador](marcador.jpg) Que tal voltar a um clássico?
+Filme ou jogo?
+Você decide!
 
 
 <a href="https://mavicampos.github.io/SA/" target="_blank"> Let's go! </a>
@@ -119,8 +95,8 @@ You decide!
 
 ## CITOGAME
 
-![marcador](marcador.jpg) Difficulties with cytology?
-Make your learning easier by phagocytizing in Guilherme's story!
+![marcador](marcador.jpg) Dificuldades no estudo da Citologia?
+Facilite sua aprendizagem fagocitando na história de Guilherme!
 
 
 <a href="https://mavicampos.github.io/SA/" target="_blank"> Let's go! </a>
@@ -147,3 +123,22 @@ a argumentação e oralidade dos participantes. Consiste em encontros mensais co
 # **PRÊMIOS** ![PRE](PRE.jpg)
 ## SECITEX E MOCITEC
 ![F1](F1.jpg)
+
+# _CONTATOS_ ![CONTATO](CONTATO.jpg)
+
+![OUT](OUT.jpg) *E-mail:* <a href="https://outlook.live.com/mail/inbox" target="_blank"> vitoriafcampos@outlook.com.br </a>
+
+![WHA](WHA.jpg) *Telefone:* _55(84) 98865-5596_
+
+![cur](cur.jpg) *Curriculum lattes:* <a href="http://lattes.cnpq.br/7418730248694689" target="_blank"> Mavi Campos </a>
+
+# _REDES SOCIAIS_ ![REDES](REDES.jpg)
+
+
+![INS](INS.jpg) *Instagram:* <a href="https://www.instagram.com/mavicamposs/?hl=pt-br" target="_blank"> @Mavicamposs </a>
+
+![FACE](FACE.jpg) *Facebook:* <a href="https://www.facebook.com/vitoria.campos3154" target="_blank"> Mavi Campos </a>
+
+![TW](TW.jpg) *Twitter:* <a href="https://www.twitter.com/MaviCamposss" target="_blank"> MaviCamposss </a>
+
+![GIT](GIT.jpg) *Github:* <a href="https://github.com/MaviCampos" target="_blank"> MaviCampos </a>
