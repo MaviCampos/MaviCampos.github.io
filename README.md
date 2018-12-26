@@ -134,3 +134,16 @@ Make your learning easier by phagocytizing in Guilherme's story!
 ![P1](P1.png)
 ![P2](P2.png)
 ![P3](P3.png)
+
+# **PROJETOS** ![PR](PR.jpg)
+## CLUBE DE ARGUMENTAÇÃO
+![marcador](marcador.jpg) Desenvolvido em 2018 pela equipe de professores e tutores de Língua Portuguesa com o objetivo de aprimorar 
+a argumentação e oralidade dos participantes. Consiste em encontros mensais com momentos de dinâmicas, teoria e prática. 
+![INS](INS.jpg) *Instagram:* <a href="https://www.instagram.com/clubedeargumentacaoifrncm/?hl=pt-br" target="_blank"> @Clubedeargumentacaoifrncm </a>
+
+![F3](F3.jpg)
+![F2](F2.jpg)
+
+# **PRÊMIOS** ![PRE](PRE.jpg)
+## SECITEX E MOCITEC
+![F1](F1.jpg)
