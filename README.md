@@ -119,6 +119,8 @@ Você decide!
 
 Facilite sua aprendizagem fagocitando na história de Guilherme!
 
+![marcador](marcador.jpg) Jogo desenvolvido pela turma de Jogos Digitais do IFRN, 3° ano, vespertino.
+
 
 <a href="https://mavicampos.github.io/SA/" target="_blank"> Vamos lá! </a>
 
