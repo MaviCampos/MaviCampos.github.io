@@ -56,7 +56,9 @@ Entre na aventura com Richard para salvar a pequena Aurora!
 ![marcador](marcador.jpg) Quantas aventuras você teve com seu melhor amigo?
 
 Quantas dessas deseja viver novamente com ele?
+
 Zizi e Kika são melhores amigas.
+
 Ajude-as a se divertirem!
 
 
@@ -71,8 +73,10 @@ Ajude-as a se divertirem!
 
 ![marcador](marcador.jpg) Quais são seus limites?
 
-A temperatura aumentará ou diminuirá  de acordo com suas escolhas
+A temperatura aumentará ou diminuirá  de acordo com suas escolhas.
+
 Defina a temperatura máxima ou tenha cuidado para não esfriar.
+
 Boa sorte!
 
 <a href="https://mavicampos.github.io/TB/" target="_blank"> Let's go! </a>
@@ -87,6 +91,7 @@ Boa sorte!
 ![marcador](marcador.jpg) Que tal voltar a um clássico?
 
 Filme ou jogo?
+
 Você decide!
 
 
@@ -120,7 +125,8 @@ Facilite sua aprendizagem fagocitando na história de Guilherme!
 
 ## CLUBE DE ARGUMENTAÇÃO
 ![marcador](marcador.jpg) Desenvolvido em 2018 pela equipe de professores e tutores de Língua Portuguesa com o objetivo de aprimorar 
-a argumentação e oralidade dos participantes. Consiste em encontros mensais com momentos de dinâmicas, teoria e prática. 
+a argumentação e oralidade dos participantes.
+Consiste em encontros mensais com momentos de dinâmicas, teoria e prática. 
 
 ![INS](INS.jpg) *Instagram:* <a href="https://www.instagram.com/clubedeargumentacaoifrncm/?hl=pt-br" target="_blank"> @Clubedeargumentacaoifrncm </a>
 
