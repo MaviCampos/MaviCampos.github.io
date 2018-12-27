@@ -137,7 +137,7 @@ a argumentação e oralidade dos participantes. Consiste em encontros mensais co
 
 ![WHA](WHA.jpg) *Telefone:* _55(84) 98865-5596_
 
-![cur](cur.jpg) *Curriculum lattes:* <a href="http://lattes.cnpq.br/7418730248694689" target="_blank"> Mavi Campos </a>
+![cur](cur.jpg) *Currículo lattes:* <a href="http://lattes.cnpq.br/7418730248694689" target="_blank"> Mavi Campos </a>
 
 # _REDES SOCIAIS_ ![REDES](REDES.jpg)
 
