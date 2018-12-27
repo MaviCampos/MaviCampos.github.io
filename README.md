@@ -40,7 +40,9 @@
 5. Meu primeiro beijo - Walcyr Carrasco;
 6. Crianças na Escuridão - Júlio Emílio Braz;
 7. Mudando de Casca - Giselda Laporta Nicolelis;
-8. O Pequeno Príncipe - Antoine de Saint Exupéry.
+8. O Pequeno Príncipe - Antoine de Saint Exupéry;
+9. Sejamos todos feministas - Chimamandra Adichie;
+10. Fazedores de Sonhos - Ana Gabriela Pádua.
 
 # **GAMES** ![JOGOS](JOGOS.jpg)
 
