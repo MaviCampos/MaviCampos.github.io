@@ -17,10 +17,10 @@
 ![marcador](marcador.jpg) Amo os seguintes filmes:
 
 
-1. Extraordinary 
-2. The Hammer
-3. The Age of Adaline
-4. The Curious Case Of Benjamin Button
+1. Extraordinário;
+2. O Martelo;
+3. A Incrível História de Adaline;
+4. O Curioso Caso de Benjamin Button.
 
 
 ![marcador](marcador.jpg) Meus livros favoritos são:
@@ -44,7 +44,7 @@
 Entre na aventura com Richard para salvar a pequena Aurora!
 
 
-<a href="https://mavicampos.github.io/ATF/" target="_blank"> Let's go! </a>
+<a href="https://mavicampos.github.io/ATF/" target="_blank"> Vamos lá! </a>
 
 
 ![atfcom1](atfcom1.png)
@@ -62,7 +62,7 @@ Zizi e Kika são melhores amigas.
 Ajude-as a se divertirem!
 
 
-<a href="https://mavicampos.github.io/ERS/" target="_blank"> Let's go! </a>
+<a href="https://mavicampos.github.io/ERS/" target="_blank"> Vamos lá! </a>
 
 
 ![ERSCOM](ERSCOM.png)
@@ -79,7 +79,7 @@ Defina a temperatura máxima ou tenha cuidado para não esfriar.
 
 Boa sorte!
 
-<a href="https://mavicampos.github.io/TB/" target="_blank"> Let's go! </a>
+<a href="https://mavicampos.github.io/TB/" target="_blank"> Vamos lá! </a>
 
 
 ![TBC](TBC.png)
@@ -95,7 +95,7 @@ Filme ou jogo?
 Você decide!
 
 
-<a href="https://mavicampos.github.io/SA/" target="_blank"> Let's go! </a>
+<a href="https://mavicampos.github.io/SA/" target="_blank"> Vamos lá! </a>
 
 
 ![SAC](SAC.png)
@@ -109,7 +109,7 @@ Você decide!
 Facilite sua aprendizagem fagocitando na história de Guilherme!
 
 
-<a href="https://mavicampos.github.io/SA/" target="_blank"> Let's go! </a>
+<a href="https://mavicampos.github.io/SA/" target="_blank"> Vamos lá! </a>
 
 
 ![CISC](CISC.png)
