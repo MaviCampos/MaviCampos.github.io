@@ -20,7 +20,14 @@
 1. Extraordinário;
 2. O Martelo;
 3. A Incrível História de Adaline;
-4. O Curioso Caso de Benjamin Button.
+4. O Curioso Caso de Benjamin Button;
+5. Um Momento pode mudar tudo;
+6. Vitórias de uma vida;
+7. Castelos de Gelo;
+8. Intocáveis;
+9. Mãos talentosas;
+10. Como eu era antes de você.
+
 
 
 ![marcador](marcador.jpg) Meus livros favoritos são:
