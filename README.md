@@ -9,6 +9,8 @@
 #  **APRESENTAÇÃO** ![emojilupa](emojilupa.jpg)
 ![euenfim](euenfim.png) 
 
+![marcador](marcador.jpg) Acadêmica em Programação de Jogos Digitais no IFRN.
+
 ![marcador](marcador.jpg) Almejo cursar Letras - Língua Portuguesa/Libras na UFRN. 
 
 ![marcador](marcador.jpg) Sou monitora de Língua Portuguesa, atualmente.
@@ -133,8 +135,7 @@ Facilite sua aprendizagem fagocitando na história de Guilherme!
 # **PROJETOS** ![PR](PR.jpg)
 
 ## CLUBE DE ARGUMENTAÇÃO
-![marcador](marcador.jpg) Desenvolvido em 2018 pela equipe de professores e tutores de Língua Portuguesa com o objetivo de aprimorar 
-a argumentação e oralidade dos participantes.
+![marcador](marcador.jpg) Desenvolvido em 2018 pela equipe de professores e tutores de Língua Portuguesa do Instituto Federal (IFRN) com o objetivo de aprimorar a argumentação e oralidade dos participantes.
 Consiste em encontros mensais com momentos de dinâmicas, teoria e prática. 
 
 ![INS](INS.jpg) *Instagram:* <a href="https://www.instagram.com/clubedeargumentacaoifrncm/?hl=pt-br" target="_blank"> @Clubedeargumentacaoifrncm </a>
