@@ -4,7 +4,7 @@
 
 ![emojiban](emojiban.jpg) _Brasileira, Potiguar_.
 
-![emojijoy](emojijoy.jpg) _Estudante desenvolvedora - Programadora de Jogos - Acadêmica de gráficos_.
+![emojijoy](emojijoy.jpg) _Estudante desenvolvedora - Programadora de Jogos Digitais - Acadêmica de gráficos_.
 
 #  **APRESENTAÇÃO** ![emojilupa](emojilupa.jpg)
 ![euenfim](euenfim.png) 
@@ -14,7 +14,7 @@
 ![marcador](marcador.jpg) Sou monitora de Língua Portuguesa, atualmente.
 
 
-![marcador](marcador.jpg) Eu amo quatro filmes:
+![marcador](marcador.jpg) Amo os seguintes filmes:
 
 
 1. Extraordinary 
@@ -40,6 +40,7 @@
 ## AGAINST THE FLOW
 
 ![marcador](marcador.jpg) Até onde você iria por amor ao seu filho?
+
 Entre na aventura com Richard para salvar a pequena Aurora!
 
 
@@ -53,6 +54,7 @@ Entre na aventura com Richard para salvar a pequena Aurora!
 ## ECOLOGICAL RELATIONSHIPS
 
 ![marcador](marcador.jpg) Quantas aventuras você teve com seu melhor amigo?
+
 Quantas dessas deseja viver novamente com ele?
 Zizi e Kika são melhores amigas.
 Ajude-as a se divertirem!
@@ -68,6 +70,7 @@ Ajude-as a se divertirem!
 ## THERMAL BALANCE
 
 ![marcador](marcador.jpg) Quais são seus limites?
+
 A temperatura aumentará ou diminuirá  de acordo com suas escolhas
 Defina a temperatura máxima ou tenha cuidado para não esfriar.
 Boa sorte!
@@ -82,6 +85,7 @@ Boa sorte!
 ## SPIDER AIRCRAFT
 
 ![marcador](marcador.jpg) Que tal voltar a um clássico?
+
 Filme ou jogo?
 Você decide!
 
@@ -96,6 +100,7 @@ Você decide!
 ## CITOGAME
 
 ![marcador](marcador.jpg) Dificuldades no estudo da Citologia?
+
 Facilite sua aprendizagem fagocitando na história de Guilherme!
 
 
@@ -112,17 +117,19 @@ Facilite sua aprendizagem fagocitando na história de Guilherme!
 ![P3](P3.png)
 
 # **PROJETOS** ![PR](PR.jpg)
+
 ## CLUBE DE ARGUMENTAÇÃO
 ![marcador](marcador.jpg) Desenvolvido em 2018 pela equipe de professores e tutores de Língua Portuguesa com o objetivo de aprimorar 
 a argumentação e oralidade dos participantes. Consiste em encontros mensais com momentos de dinâmicas, teoria e prática. 
+
 ![INS](INS.jpg) *Instagram:* <a href="https://www.instagram.com/clubedeargumentacaoifrncm/?hl=pt-br" target="_blank"> @Clubedeargumentacaoifrncm </a>
 
-![F3](F3.jpg)
-![F2](F2.jpg)
+![F3](F3.png)
+![F2](F2.png)
 
 # **PRÊMIOS** ![PRE](PRE.jpg)
 ## SECITEX E MOCITEC
-![F1](F1.jpg)
+![F1](F1.png)
 
 # _CONTATOS_ ![CONTATO](CONTATO.jpg)
 
