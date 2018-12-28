@@ -153,7 +153,7 @@ Consiste em encontros mensais com momentos de dinâmicas, teoria e prática.
 
 ![OUT](OUT.jpg) *E-mail:* <a href="https://outlook.live.com/mail/inbox" target="_blank"> vitoriafcampos@outlook.com.br </a>
 
-![WHA](WHA.jpg) *Telefone:* _+55(84) 98865-5596_
+![WHA](WHA.jpg) *Telefone:* _+55 (84) 98865-5596_
 
 ![cur](cur.jpg) *Currículo lattes:* <a href="http://lattes.cnpq.br/7418730248694689" target="_blank"> Mavi Campos </a>
 
