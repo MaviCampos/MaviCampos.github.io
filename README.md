@@ -1,6 +1,6 @@
 # **PORTFÓLIO** ![emojicor](emojicor.jpg)
 
-![emojibon](emojibon.jpg) _Mavi Campos, 18 anos_.
+![emojibon](emojibon.jpg) _Mavi Campos, 19 anos_.
 
 ![emojiban](emojiban.jpg) _Brasileira, Potiguar_.
 
@@ -11,9 +11,9 @@
 
 ![marcador](marcador.jpg) Acadêmica em Programação de Jogos Digitais no IFRN.
 
-![marcador](marcador.jpg) Almejo cursar Letras - Língua Portuguesa/Libras na UFRN. 
+![marcador](marcador.jpg) Almejo cursar Física na UFRN. 
 
-![marcador](marcador.jpg) Sou monitora de Língua Portuguesa, atualmente.
+![marcador](marcador.jpg) Sou redatora do Bala's Ceriminiais, atualmente.
 
 
 ![marcador](marcador.jpg) Amo os seguintes filmes:
